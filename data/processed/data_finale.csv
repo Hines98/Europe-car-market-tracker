@@ -1,0 +1,2904 @@
+year,month_num,month,group,brand,registrations
+2015,1,January,Renault Group,Dacia,26228
+2015,1,January,Renault Group,Renault,62562
+2015,1,January,Stellantis,Alfa Romeo,3892
+2015,1,January,Stellantis,Chrysler,36
+2015,1,January,Stellantis,Citroen,39880
+2015,1,January,Stellantis,DS,4870
+2015,1,January,Stellantis,Dodge,2
+2015,1,January,Stellantis,Fiat,45839
+2015,1,January,Stellantis,Jeep,5545
+2015,1,January,Stellantis,Lancia,5522
+2015,1,January,Stellantis,Others,645
+2015,1,January,Stellantis,Peugeot,61466
+2015,1,January,Toyota Group,Others,3034
+2015,1,January,Toyota Group,Toyota,42753
+2015,1,January,Volkswagen Group,Audi,53119
+2015,1,January,Volkswagen Group,Others,251
+2015,1,January,Volkswagen Group,Seat,22965
+2015,1,January,Volkswagen Group,Skoda,31363
+2015,1,January,Volkswagen Group,Volkswagen,125508
+2015,2,February,Renault Group,Dacia,21751
+2015,2,February,Renault Group,Renault,65869
+2015,2,February,Stellantis,Alfa Romeo,4582
+2015,2,February,Stellantis,Chrysler,31
+2015,2,February,Stellantis,Citroen,39359
+2015,2,February,Stellantis,DS,4487
+2015,2,February,Stellantis,Dodge,3
+2015,2,February,Stellantis,Fiat,47050
+2015,2,February,Stellantis,Jeep,5991
+2015,2,February,Stellantis,Lancia,5863
+2015,2,February,Stellantis,Others,431
+2015,2,February,Stellantis,Peugeot,59816
+2015,2,February,Toyota Group,Others,1688
+2015,2,February,Toyota Group,Toyota,35892
+2015,2,February,Volkswagen Group,Audi,48219
+2015,2,February,Volkswagen Group,Others,150
+2015,2,February,Volkswagen Group,Seat,24552
+2015,2,February,Volkswagen Group,Skoda,30678
+2015,2,February,Volkswagen Group,Volkswagen,111815
+2015,3,March,Renault Group,Dacia,32127
+2015,3,March,Renault Group,Renault,102566
+2015,3,March,Stellantis,Alfa Romeo,6172
+2015,3,March,Stellantis,Chrysler,46
+2015,3,March,Stellantis,Citroen,60251
+2015,3,March,Stellantis,DS,9254
+2015,3,March,Stellantis,Dodge,12
+2015,3,March,Stellantis,Fiat,72823
+2015,3,March,Stellantis,Jeep,8830
+2015,3,March,Stellantis,Lancia,6189
+2015,3,March,Stellantis,Others,1082
+2015,3,March,Stellantis,Peugeot,93127
+2015,3,March,Toyota Group,Others,4491
+2015,3,March,Toyota Group,Toyota,62174
+2015,3,March,Volkswagen Group,Audi,85773
+2015,3,March,Volkswagen Group,Others,420
+2015,3,March,Volkswagen Group,Seat,36335
+2015,3,March,Volkswagen Group,Skoda,48190
+2015,3,March,Volkswagen Group,Volkswagen,173567
+2015,4,April,Renault Group,Dacia,32326
+2015,4,April,Renault Group,Renault,83115
+2015,4,April,Stellantis,Alfa Romeo,4803
+2015,4,April,Stellantis,Chrysler,43
+2015,4,April,Stellantis,Citroen,46561
+2015,4,April,Stellantis,DS,6348
+2015,4,April,Stellantis,Dodge,10
+2015,4,April,Stellantis,Fiat,57799
+2015,4,April,Stellantis,Jeep,6813
+2015,4,April,Stellantis,Lancia,6075
+2015,4,April,Stellantis,Others,962
+2015,4,April,Stellantis,Peugeot,70705
+2015,4,April,Toyota Group,Others,2895
+2015,4,April,Toyota Group,Toyota,38621
+2015,4,April,Volkswagen Group,Audi,68377
+2015,4,April,Volkswagen Group,Others,300
+2015,4,April,Volkswagen Group,Seat,27665
+2015,4,April,Volkswagen Group,Skoda,40574
+2015,4,April,Volkswagen Group,Volkswagen,145601
+2015,5,May,Renault Group,Dacia,25584
+2015,5,May,Renault Group,Renault,71170
+2015,5,May,Stellantis,Alfa Romeo,5458
+2015,5,May,Stellantis,Chrysler,28
+2015,5,May,Stellantis,Citroen,41712
+2015,5,May,Stellantis,DS,4669
+2015,5,May,Stellantis,Dodge,14
+2015,5,May,Stellantis,Fiat,56764
+2015,5,May,Stellantis,Jeep,7132
+2015,5,May,Stellantis,Lancia,5643
+2015,5,May,Stellantis,Others,822
+2015,5,May,Stellantis,Peugeot,65124
+2015,5,May,Toyota Group,Others,2535
+2015,5,May,Toyota Group,Toyota,37518
+2015,5,May,Volkswagen Group,Audi,60925
+2015,5,May,Volkswagen Group,Others,236
+2015,5,May,Volkswagen Group,Seat,29544
+2015,5,May,Volkswagen Group,Skoda,38046
+2015,5,May,Volkswagen Group,Volkswagen,134284
+2015,6,June,Renault Group,Dacia,32361
+2015,6,June,Renault Group,Renault,106106
+2015,6,June,Stellantis,Alfa Romeo,5322
+2015,6,June,Stellantis,Chrysler,30
+2015,6,June,Stellantis,Citroen,56566
+2015,6,June,Stellantis,DS,7865
+2015,6,June,Stellantis,Dodge,12
+2015,6,June,Stellantis,Fiat,64179
+2015,6,June,Stellantis,Jeep,8009
+2015,6,June,Stellantis,Lancia,6312
+2015,6,June,Stellantis,Others,901
+2015,6,June,Stellantis,Peugeot,81836
+2015,6,June,Toyota Group,Others,2983
+2015,6,June,Toyota Group,Toyota,44603
+2015,6,June,Volkswagen Group,Audi,73054
+2015,6,June,Volkswagen Group,Others,335
+2015,6,June,Volkswagen Group,Seat,33561
+2015,6,June,Volkswagen Group,Skoda,45766
+2015,6,June,Volkswagen Group,Volkswagen,157590
+2015,7,July,Renault Group,Dacia,25842
+2015,7,July,Renault Group,Renault,65954
+2015,7,July,Stellantis,Alfa Romeo,4612
+2015,7,July,Stellantis,Chrysler,33
+2015,7,July,Stellantis,Citroen,47476
+2015,7,July,Stellantis,DS,5488
+2015,7,July,Stellantis,Dodge,40
+2015,7,July,Stellantis,Fiat,55252
+2015,7,July,Stellantis,Jeep,6783
+2015,7,July,Stellantis,Lancia,4757
+2015,7,July,Stellantis,Others,815
+2015,7,July,Stellantis,Peugeot,67859
+2015,7,July,Toyota Group,Others,2469
+2015,7,July,Toyota Group,Toyota,40123
+2015,7,July,Volkswagen Group,Audi,68099
+2015,7,July,Volkswagen Group,Others,301
+2015,7,July,Volkswagen Group,Seat,27729
+2015,7,July,Volkswagen Group,Skoda,40309
+2015,7,July,Volkswagen Group,Volkswagen,143957
+2015,8,August,Renault Group,Dacia,15832
+2015,8,August,Renault Group,Renault,45800
+2015,8,August,Stellantis,Alfa Romeo,2751
+2015,8,August,Stellantis,Chrysler,23
+2015,8,August,Stellantis,Citroen,27593
+2015,8,August,Stellantis,DS,2961
+2015,8,August,Stellantis,Dodge,20
+2015,8,August,Stellantis,Fiat,27379
+2015,8,August,Stellantis,Jeep,4372
+2015,8,August,Stellantis,Lancia,2840
+2015,8,August,Stellantis,Others,373
+2015,8,August,Stellantis,Peugeot,39731
+2015,8,August,Toyota Group,Others,1714
+2015,8,August,Toyota Group,Toyota,27466
+2015,8,August,Volkswagen Group,Audi,42492
+2015,8,August,Volkswagen Group,Others,200
+2015,8,August,Volkswagen Group,Seat,17033
+2015,8,August,Volkswagen Group,Skoda,29597
+2015,8,August,Volkswagen Group,Volkswagen,94145
+2015,9,September,Renault Group,Dacia,23232
+2015,9,September,Renault Group,Renault,77861
+2015,9,September,Stellantis,Alfa Romeo,4925
+2015,9,September,Stellantis,Chrysler,18
+2015,9,September,Stellantis,Citroen,48998
+2015,9,September,Stellantis,DS,7318
+2015,9,September,Stellantis,Dodge,27
+2015,9,September,Stellantis,Fiat,58736
+2015,9,September,Stellantis,Jeep,8027
+2015,9,September,Stellantis,Lancia,4680
+2015,9,September,Stellantis,Others,812
+2015,9,September,Stellantis,Peugeot,76199
+2015,9,September,Toyota Group,Others,4782
+2015,9,September,Toyota Group,Toyota,52164
+2015,9,September,Volkswagen Group,Audi,73766
+2015,9,September,Volkswagen Group,Others,261
+2015,9,September,Volkswagen Group,Seat,27968
+2015,9,September,Volkswagen Group,Skoda,44403
+2015,9,September,Volkswagen Group,Volkswagen,148255
+2015,10,October,Renault Group,Dacia,23365
+2015,10,October,Renault Group,Renault,73751
+2015,10,October,Stellantis,Alfa Romeo,4352
+2015,10,October,Stellantis,Chrysler,15
+2015,10,October,Stellantis,Citroen,43272
+2015,10,October,Stellantis,DS,5245
+2015,10,October,Stellantis,Dodge,8
+2015,10,October,Stellantis,Fiat,51631
+2015,10,October,Stellantis,Jeep,6908
+2015,10,October,Stellantis,Lancia,4408
+2015,10,October,Stellantis,Others,739
+2015,10,October,Stellantis,Peugeot,66683
+2015,10,October,Toyota Group,Others,2970
+2015,10,October,Toyota Group,Toyota,39695
+2015,10,October,Volkswagen Group,Audi,63570
+2015,10,October,Volkswagen Group,Others,281
+2015,10,October,Volkswagen Group,Seat,23342
+2015,10,October,Volkswagen Group,Skoda,34818
+2015,10,October,Volkswagen Group,Volkswagen,132178
+2015,11,November,Renault Group,Dacia,23117
+2015,11,November,Renault Group,Renault,73398
+2015,11,November,Stellantis,Alfa Romeo,4401
+2015,11,November,Stellantis,Chrysler,18
+2015,11,November,Stellantis,Citroen,38922
+2015,11,November,Stellantis,DS,5634
+2015,11,November,Stellantis,Dodge,24
+2015,11,November,Stellantis,Fiat,49183
+2015,11,November,Stellantis,Jeep,7044
+2015,11,November,Stellantis,Lancia,4475
+2015,11,November,Stellantis,Others,505
+2015,11,November,Stellantis,Peugeot,64892
+2015,11,November,Toyota Group,Others,2817
+2015,11,November,Toyota Group,Toyota,39420
+2015,11,November,Volkswagen Group,Audi,56999
+2015,11,November,Volkswagen Group,Others,197
+2015,11,November,Volkswagen Group,Seat,23187
+2015,11,November,Volkswagen Group,Skoda,35831
+2015,11,November,Volkswagen Group,Volkswagen,128736
+2015,12,December,Renault Group,Dacia,27875
+2015,12,December,Renault Group,Renault,91787
+2015,12,December,Stellantis,Alfa Romeo,4151
+2015,12,December,Stellantis,Chrysler,13
+2015,12,December,Stellantis,Citroen,39724
+2015,12,December,Stellantis,DS,6264
+2015,12,December,Stellantis,Dodge,137
+2015,12,December,Stellantis,Fiat,46294
+2015,12,December,Stellantis,Jeep,6827
+2015,12,December,Stellantis,Lancia,4382
+2015,12,December,Stellantis,Others,382
+2015,12,December,Stellantis,Peugeot,73757
+2015,12,December,Toyota Group,Others,3455
+2015,12,December,Toyota Group,Toyota,39643
+2015,12,December,Volkswagen Group,Audi,49071
+2015,12,December,Volkswagen Group,Others,173
+2015,12,December,Volkswagen Group,Seat,23944
+2015,12,December,Volkswagen Group,Skoda,31534
+2015,12,December,Volkswagen Group,Volkswagen,124425
+2016,1,January,Renault Group,Dacia,26130
+2016,1,January,Renault Group,Lada,92
+2016,1,January,Renault Group,Renault,63196
+2016,1,January,Stellantis,Alfa Romeo,4457
+2016,1,January,Stellantis,Chrysler,6
+2016,1,January,Stellantis,Citroen,41624
+2016,1,January,Stellantis,DS,5226
+2016,1,January,Stellantis,Dodge,1
+2016,1,January,Stellantis,Fiat,52526
+2016,1,January,Stellantis,Jeep,7437
+2016,1,January,Stellantis,Lancia,5677
+2016,1,January,Stellantis,Opel,66203
+2016,1,January,Stellantis,Others,612
+2016,1,January,Stellantis,Peugeot,63395
+2016,1,January,Toyota Group,Others,3166
+2016,1,January,Toyota Group,Toyota,43562
+2016,1,January,Volkswagen Group,Audi,60539
+2016,1,January,Volkswagen Group,Others,252
+2016,1,January,Volkswagen Group,Seat,21232
+2016,1,January,Volkswagen Group,Skoda,32732
+2016,1,January,Volkswagen Group,Volkswagen,120502
+2016,2,February,Renault Group,Dacia,24437
+2016,2,February,Renault Group,Lada,133
+2016,2,February,Renault Group,Renault,72731
+2016,2,February,Stellantis,Alfa Romeo,4972
+2016,2,February,Stellantis,Chrysler,15
+2016,2,February,Stellantis,Citroen,43797
+2016,2,February,Stellantis,DS,4865
+2016,2,February,Stellantis,Dodge,7
+2016,2,February,Stellantis,Fiat,58849
+2016,2,February,Stellantis,Jeep,7367
+2016,2,February,Stellantis,Lancia,6876
+2016,2,February,Stellantis,Opel,65479
+2016,2,February,Stellantis,Others,547
+2016,2,February,Stellantis,Peugeot,67856
+2016,2,February,Toyota Group,Others,2049
+2016,2,February,Toyota Group,Toyota,39037
+2016,2,February,Volkswagen Group,Audi,55782
+2016,2,February,Volkswagen Group,Others,188
+2016,2,February,Volkswagen Group,Seat,23578
+2016,2,February,Volkswagen Group,Skoda,35517
+2016,2,February,Volkswagen Group,Volkswagen,116891
+2016,3,March,Renault Group,Dacia,34285
+2016,3,March,Renault Group,Lada,159
+2016,3,March,Renault Group,Renault,113757
+2016,3,March,Stellantis,Alfa Romeo,6228
+2016,3,March,Stellantis,Chrysler,25
+2016,3,March,Stellantis,Citroen,60545
+2016,3,March,Stellantis,DS,8805
+2016,3,March,Stellantis,Dodge,15
+2016,3,March,Stellantis,Fiat,82928
+2016,3,March,Stellantis,Jeep,10166
+2016,3,March,Stellantis,Lancia,7290
+2016,3,March,Stellantis,Opel,119566
+2016,3,March,Stellantis,Others,1078
+2016,3,March,Stellantis,Peugeot,94602
+2016,3,March,Toyota Group,Others,5453
+2016,3,March,Toyota Group,Toyota,63330
+2016,3,March,Volkswagen Group,Audi,92176
+2016,3,March,Volkswagen Group,Others,483
+2016,3,March,Volkswagen Group,Seat,36179
+2016,3,March,Volkswagen Group,Skoda,51375
+2016,3,March,Volkswagen Group,Volkswagen,170280
+2016,4,April,Renault Group,Dacia,31788
+2016,4,April,Renault Group,Lada,148
+2016,4,April,Renault Group,Renault,89159
+2016,4,April,Stellantis,Alfa Romeo,4731
+2016,4,April,Stellantis,Chrysler,22
+2016,4,April,Stellantis,Citroen,49639
+2016,4,April,Stellantis,DS,5525
+2016,4,April,Stellantis,Dodge,14
+2016,4,April,Stellantis,Fiat,65813
+2016,4,April,Stellantis,Jeep,8450
+2016,4,April,Stellantis,Lancia,7056
+2016,4,April,Stellantis,Opel,76064
+2016,4,April,Stellantis,Others,889
+2016,4,April,Stellantis,Peugeot,75520
+2016,4,April,Toyota Group,Others,2756
+2016,4,April,Toyota Group,Toyota,43313
+2016,4,April,Volkswagen Group,Audi,74638
+2016,4,April,Volkswagen Group,Others,446
+2016,4,April,Volkswagen Group,Seat,27790
+2016,4,April,Volkswagen Group,Skoda,43161
+2016,4,April,Volkswagen Group,Volkswagen,148866
+2016,5,May,Renault Group,Dacia,30705
+2016,5,May,Renault Group,Lada,155
+2016,5,May,Renault Group,Renault,94916
+2016,5,May,Stellantis,Alfa Romeo,5395
+2016,5,May,Stellantis,Chrysler,14
+2016,5,May,Stellantis,Citroen,49496
+2016,5,May,Stellantis,DS,5633
+2016,5,May,Stellantis,Dodge,16
+2016,5,May,Stellantis,Fiat,72229
+2016,5,May,Stellantis,Jeep,9414
+2016,5,May,Stellantis,Lancia,7483
+2016,5,May,Stellantis,Opel,80989
+2016,5,May,Stellantis,Others,835
+2016,5,May,Stellantis,Peugeot,76693
+2016,5,May,Toyota Group,Others,3070
+2016,5,May,Toyota Group,Toyota,44686
+2016,5,May,Volkswagen Group,Audi,72576
+2016,5,May,Volkswagen Group,Others,343
+2016,5,May,Volkswagen Group,Seat,28794
+2016,5,May,Volkswagen Group,Skoda,42047
+2016,5,May,Volkswagen Group,Volkswagen,138819
+2016,6,June,Renault Group,Dacia,36482
+2016,6,June,Renault Group,Lada,168
+2016,6,June,Renault Group,Renault,127749
+2016,6,June,Stellantis,Alfa Romeo,6595
+2016,6,June,Stellantis,Chrysler,14
+2016,6,June,Stellantis,Citroen,55174
+2016,6,June,Stellantis,DS,7289
+2016,6,June,Stellantis,Dodge,22
+2016,6,June,Stellantis,Fiat,72876
+2016,6,June,Stellantis,Jeep,9501
+2016,6,June,Stellantis,Lancia,5753
+2016,6,June,Stellantis,Opel,93779
+2016,6,June,Stellantis,Others,953
+2016,6,June,Stellantis,Peugeot,82699
+2016,6,June,Toyota Group,Others,3620
+2016,6,June,Toyota Group,Toyota,48867
+2016,6,June,Volkswagen Group,Audi,72749
+2016,6,June,Volkswagen Group,Others,450
+2016,6,June,Volkswagen Group,Seat,32475
+2016,6,June,Volkswagen Group,Skoda,48036
+2016,6,June,Volkswagen Group,Volkswagen,154509
+2016,7,July,Renault Group,Dacia,30161
+2016,7,July,Renault Group,Lada,147
+2016,7,July,Renault Group,Renault,66031
+2016,7,July,Stellantis,Alfa Romeo,5057
+2016,7,July,Stellantis,Chrysler,13
+2016,7,July,Stellantis,Citroen,39472
+2016,7,July,Stellantis,DS,4683
+2016,7,July,Stellantis,Dodge,26
+2016,7,July,Stellantis,Fiat,57214
+2016,7,July,Stellantis,Jeep,7770
+2016,7,July,Stellantis,Lancia,4572
+2016,7,July,Stellantis,Opel,70498
+2016,7,July,Stellantis,Others,838
+2016,7,July,Stellantis,Peugeot,60509
+2016,7,July,Toyota Group,Others,2722
+2016,7,July,Toyota Group,Toyota,39668
+2016,7,July,Volkswagen Group,Audi,64368
+2016,7,July,Volkswagen Group,Others,402
+2016,7,July,Volkswagen Group,Seat,27844
+2016,7,July,Volkswagen Group,Skoda,36693
+2016,7,July,Volkswagen Group,Volkswagen,127148
+2016,8,August,Renault Group,Dacia,21804
+2016,8,August,Renault Group,Lada,179
+2016,8,August,Renault Group,Renault,47665
+2016,8,August,Stellantis,Alfa Romeo,3213
+2016,8,August,Stellantis,Chrysler,20
+2016,8,August,Stellantis,Citroen,27215
+2016,8,August,Stellantis,DS,2482
+2016,8,August,Stellantis,Dodge,14
+2016,8,August,Stellantis,Fiat,33139
+2016,8,August,Stellantis,Jeep,5809
+2016,8,August,Stellantis,Lancia,2527
+2016,8,August,Stellantis,Opel,49148
+2016,8,August,Stellantis,Others,702
+2016,8,August,Stellantis,Peugeot,42075
+2016,8,August,Toyota Group,Others,2133
+2016,8,August,Toyota Group,Toyota,31537
+2016,8,August,Volkswagen Group,Audi,45038
+2016,8,August,Volkswagen Group,Others,273
+2016,8,August,Volkswagen Group,Seat,20160
+2016,8,August,Volkswagen Group,Skoda,28803
+2016,8,August,Volkswagen Group,Volkswagen,97996
+2016,9,September,Renault Group,Dacia,26560
+2016,9,September,Renault Group,Lada,173
+2016,9,September,Renault Group,Renault,92242
+2016,9,September,Stellantis,Alfa Romeo,6843
+2016,9,September,Stellantis,Chrysler,9
+2016,9,September,Stellantis,Citroen,43648
+2016,9,September,Stellantis,DS,6283
+2016,9,September,Stellantis,Dodge,22
+2016,9,September,Stellantis,Fiat,65184
+2016,9,September,Stellantis,Jeep,9828
+2016,9,September,Stellantis,Lancia,5384
+2016,9,September,Stellantis,Opel,96782
+2016,9,September,Stellantis,Others,1118
+2016,9,September,Stellantis,Peugeot,74648
+2016,9,September,Toyota Group,Others,5572
+2016,9,September,Toyota Group,Toyota,55606
+2016,9,September,Volkswagen Group,Audi,79718
+2016,9,September,Volkswagen Group,Others,529
+2016,9,September,Volkswagen Group,Seat,27894
+2016,9,September,Volkswagen Group,Skoda,47635
+2016,9,September,Volkswagen Group,Volkswagen,152558
+2016,10,October,Renault Group,Dacia,22343
+2016,10,October,Renault Group,Lada,163
+2016,10,October,Renault Group,Renault,71772
+2016,10,October,Stellantis,Alfa Romeo,5289
+2016,10,October,Stellantis,Chrysler,3
+2016,10,October,Stellantis,Citroen,39242
+2016,10,October,Stellantis,DS,3783
+2016,10,October,Stellantis,Dodge,6
+2016,10,October,Stellantis,Fiat,53253
+2016,10,October,Stellantis,Jeep,7567
+2016,10,October,Stellantis,Lancia,5501
+2016,10,October,Stellantis,Opel,64380
+2016,10,October,Stellantis,Others,929
+2016,10,October,Stellantis,Peugeot,63435
+2016,10,October,Toyota Group,Others,2837
+2016,10,October,Toyota Group,Toyota,39327
+2016,10,October,Volkswagen Group,Audi,64963
+2016,10,October,Volkswagen Group,Others,338
+2016,10,October,Volkswagen Group,Seat,26517
+2016,10,October,Volkswagen Group,Skoda,35455
+2016,10,October,Volkswagen Group,Volkswagen,121135
+2016,11,November,Renault Group,Dacia,24450
+2016,11,November,Renault Group,Lada,178
+2016,11,November,Renault Group,Renault,87678
+2016,11,November,Stellantis,Alfa Romeo,5974
+2016,11,November,Stellantis,Chrysler,4
+2016,11,November,Stellantis,Citroen,36701
+2016,11,November,Stellantis,DS,3767
+2016,11,November,Stellantis,Dodge,14
+2016,11,November,Stellantis,Fiat,53221
+2016,11,November,Stellantis,Jeep,7774
+2016,11,November,Stellantis,Lancia,4431
+2016,11,November,Stellantis,Opel,68150
+2016,11,November,Stellantis,Others,881
+2016,11,November,Stellantis,Peugeot,63717
+2016,11,November,Toyota Group,Others,2903
+2016,11,November,Toyota Group,Toyota,41757
+2016,11,November,Volkswagen Group,Audi,60572
+2016,11,November,Volkswagen Group,Others,304
+2016,11,November,Volkswagen Group,Seat,29715
+2016,11,November,Volkswagen Group,Skoda,37240
+2016,11,November,Volkswagen Group,Volkswagen,128368
+2016,12,December,Renault Group,Dacia,28949
+2016,12,December,Renault Group,Lada,169
+2016,12,December,Renault Group,Renault,104184
+2016,12,December,Stellantis,Alfa Romeo,5958
+2016,12,December,Stellantis,Chrysler,12
+2016,12,December,Stellantis,Citroen,35563
+2016,12,December,Stellantis,DS,3555
+2016,12,December,Stellantis,Dodge,38
+2016,12,December,Stellantis,Fiat,51376
+2016,12,December,Stellantis,Jeep,7706
+2016,12,December,Stellantis,Lancia,4419
+2016,12,December,Stellantis,Opel,65769
+2016,12,December,Stellantis,Others,1027
+2016,12,December,Stellantis,Peugeot,62178
+2016,12,December,Toyota Group,Others,3114
+2016,12,December,Toyota Group,Toyota,42042
+2016,12,December,Volkswagen Group,Audi,58616
+2016,12,December,Volkswagen Group,Others,373
+2016,12,December,Volkswagen Group,Seat,24982
+2016,12,December,Volkswagen Group,Skoda,36677
+2016,12,December,Volkswagen Group,Volkswagen,122597
+2017,1,January,Renault Group,Dacia,28715
+2017,1,January,Renault Group,Lada,167
+2017,1,January,Renault Group,Renault,69543
+2017,1,January,Stellantis,Alfa Romeo,5819
+2017,1,January,Stellantis,Chrysler,2
+2017,1,January,Stellantis,Citroen,43776
+2017,1,January,Stellantis,DS,3453
+2017,1,January,Stellantis,Dodge,8
+2017,1,January,Stellantis,Fiat,61282
+2017,1,January,Stellantis,Jeep,6978
+2017,1,January,Stellantis,Lancia,5834
+2017,1,January,Stellantis,Opel,69562
+2017,1,January,Stellantis,Others,1163
+2017,1,January,Stellantis,Peugeot,69582
+2017,1,January,Toyota Group,Others,3198
+2017,1,January,Toyota Group,Toyota,51116
+2017,1,January,Volkswagen Group,Audi,61256
+2017,1,January,Volkswagen Group,Others,401
+2017,1,January,Volkswagen Group,Seat,26953
+2017,1,January,Volkswagen Group,Skoda,36774
+2017,1,January,Volkswagen Group,Volkswagen,129157
+2017,2,February,Renault Group,Dacia,26270
+2017,2,February,Renault Group,Lada,222
+2017,2,February,Renault Group,Renault,74978
+2017,2,February,Stellantis,Alfa Romeo,6130
+2017,2,February,Stellantis,Chrysler,4
+2017,2,February,Stellantis,Citroen,44287
+2017,2,February,Stellantis,DS,3047
+2017,2,February,Stellantis,Dodge,13
+2017,2,February,Stellantis,Fiat,63295
+2017,2,February,Stellantis,Jeep,7388
+2017,2,February,Stellantis,Lancia,7258
+2017,2,February,Stellantis,Opel,63857
+2017,2,February,Stellantis,Others,883
+2017,2,February,Stellantis,Peugeot,65285
+2017,2,February,Toyota Group,Others,2022
+2017,2,February,Toyota Group,Toyota,45084
+2017,2,February,Volkswagen Group,Audi,55766
+2017,2,February,Volkswagen Group,Others,235
+2017,2,February,Volkswagen Group,Seat,27064
+2017,2,February,Volkswagen Group,Skoda,35303
+2017,2,February,Volkswagen Group,Volkswagen,106538
+2017,3,March,Renault Group,Dacia,36798
+2017,3,March,Renault Group,Lada,280
+2017,3,March,Renault Group,Renault,131271
+2017,3,March,Stellantis,Alfa Romeo,9006
+2017,3,March,Stellantis,Chrysler,7
+2017,3,March,Stellantis,Citroen,66863
+2017,3,March,Stellantis,DS,5976
+2017,3,March,Stellantis,Dodge,23
+2017,3,March,Stellantis,Fiat,97372
+2017,3,March,Stellantis,Jeep,11148
+2017,3,March,Stellantis,Lancia,8350
+2017,3,March,Stellantis,Opel,122380
+2017,3,March,Stellantis,Others,1787
+2017,3,March,Stellantis,Peugeot,101762
+2017,3,March,Toyota Group,Others,5503
+2017,3,March,Toyota Group,Toyota,75233
+2017,3,March,Volkswagen Group,Audi,95175
+2017,3,March,Volkswagen Group,Others,678
+2017,3,March,Volkswagen Group,Seat,41896
+2017,3,March,Volkswagen Group,Skoda,54337
+2017,3,March,Volkswagen Group,Volkswagen,175221
+2017,4,April,Renault Group,Dacia,30758
+2017,4,April,Renault Group,Lada,197
+2017,4,April,Renault Group,Renault,85302
+2017,4,April,Stellantis,Alfa Romeo,7117
+2017,4,April,Stellantis,Chrysler,11
+2017,4,April,Stellantis,Citroen,46110
+2017,4,April,Stellantis,DS,3060
+2017,4,April,Stellantis,Dodge,21
+2017,4,April,Stellantis,Fiat,64513
+2017,4,April,Stellantis,Jeep,7630
+2017,4,April,Stellantis,Lancia,5863
+2017,4,April,Stellantis,Opel,64820
+2017,4,April,Stellantis,Others,1020
+2017,4,April,Stellantis,Peugeot,72102
+2017,4,April,Toyota Group,Others,2400
+2017,4,April,Toyota Group,Toyota,42722
+2017,4,April,Volkswagen Group,Audi,67613
+2017,4,April,Volkswagen Group,Others,381
+2017,4,April,Volkswagen Group,Seat,32089
+2017,4,April,Volkswagen Group,Skoda,39975
+2017,4,April,Volkswagen Group,Volkswagen,126231
+2017,5,May,Renault Group,Dacia,37364
+2017,5,May,Renault Group,Lada,228
+2017,5,May,Renault Group,Renault,99048
+2017,5,May,Stellantis,Alfa Romeo,7915
+2017,5,May,Stellantis,Chrysler,9
+2017,5,May,Stellantis,Citroen,53232
+2017,5,May,Stellantis,DS,3610
+2017,5,May,Stellantis,Dodge,21
+2017,5,May,Stellantis,Fiat,83130
+2017,5,May,Stellantis,Jeep,8613
+2017,5,May,Stellantis,Lancia,5312
+2017,5,May,Stellantis,Opel,78941
+2017,5,May,Stellantis,Others,1097
+2017,5,May,Stellantis,Peugeot,80629
+2017,5,May,Toyota Group,Others,2951
+2017,5,May,Toyota Group,Toyota,52310
+2017,5,May,Volkswagen Group,Audi,73689
+2017,5,May,Volkswagen Group,Others,402
+2017,5,May,Volkswagen Group,Seat,32499
+2017,5,May,Volkswagen Group,Skoda,47918
+2017,5,May,Volkswagen Group,Volkswagen,149534
+2017,6,June,Renault Group,Dacia,39006
+2017,6,June,Renault Group,Lada,304
+2017,6,June,Renault Group,Renault,126860
+2017,6,June,Stellantis,Alfa Romeo,8881
+2017,6,June,Stellantis,Chrysler,13
+2017,6,June,Stellantis,Citroen,55968
+2017,6,June,Stellantis,DS,4286
+2017,6,June,Stellantis,Dodge,13
+2017,6,June,Stellantis,Fiat,79301
+2017,6,June,Stellantis,Jeep,8848
+2017,6,June,Stellantis,Lancia,4618
+2017,6,June,Stellantis,Opel,87227
+2017,6,June,Stellantis,Others,1196
+2017,6,June,Stellantis,Peugeot,89412
+2017,6,June,Toyota Group,Others,3640
+2017,6,June,Toyota Group,Toyota,54667
+2017,6,June,Volkswagen Group,Audi,72004
+2017,6,June,Volkswagen Group,Others,453
+2017,6,June,Volkswagen Group,Seat,37986
+2017,6,June,Volkswagen Group,Skoda,48796
+2017,6,June,Volkswagen Group,Volkswagen,154776
+2017,7,July,Renault Group,Dacia,31993
+2017,7,July,Renault Group,Lada,237
+2017,7,July,Renault Group,Renault,71352
+2017,7,July,Stellantis,Alfa Romeo,6857
+2017,7,July,Stellantis,Chrysler,11
+2017,7,July,Stellantis,Citroen,42358
+2017,7,July,Stellantis,DS,3334
+2017,7,July,Stellantis,Dodge,22
+2017,7,July,Stellantis,Fiat,56217
+2017,7,July,Stellantis,Jeep,7626
+2017,7,July,Stellantis,Lancia,4249
+2017,7,July,Stellantis,Opel,64474
+2017,7,July,Stellantis,Others,1095
+2017,7,July,Stellantis,Peugeot,66239
+2017,7,July,Toyota Group,Others,2875
+2017,7,July,Toyota Group,Toyota,46926
+2017,7,July,Volkswagen Group,Audi,67176
+2017,7,July,Volkswagen Group,Others,433
+2017,7,July,Volkswagen Group,Seat,30293
+2017,7,July,Volkswagen Group,Skoda,38186
+2017,7,July,Volkswagen Group,Volkswagen,120283
+2017,8,August,Renault Group,Dacia,25045
+2017,8,August,Renault Group,Lada,260
+2017,8,August,Renault Group,Renault,52778
+2017,8,August,Stellantis,Alfa Romeo,4498
+2017,8,August,Stellantis,Chrysler,2
+2017,8,August,Stellantis,Citroen,28625
+2017,8,August,Stellantis,DS,2194
+2017,8,August,Stellantis,Dodge,26
+2017,8,August,Stellantis,Fiat,36494
+2017,8,August,Stellantis,Jeep,5596
+2017,8,August,Stellantis,Lancia,2835
+2017,8,August,Stellantis,Opel,48208
+2017,8,August,Stellantis,Others,585
+2017,8,August,Stellantis,Peugeot,46349
+2017,8,August,Toyota Group,Others,2076
+2017,8,August,Toyota Group,Toyota,35928
+2017,8,August,Volkswagen Group,Audi,47403
+2017,8,August,Volkswagen Group,Others,307
+2017,8,August,Volkswagen Group,Seat,22969
+2017,8,August,Volkswagen Group,Skoda,32441
+2017,8,August,Volkswagen Group,Volkswagen,93145
+2017,9,September,Renault Group,Dacia,27862
+2017,9,September,Renault Group,Lada,261
+2017,9,September,Renault Group,Renault,89826
+2017,9,September,Stellantis,Alfa Romeo,7848
+2017,9,September,Stellantis,Chrysler,8
+2017,9,September,Stellantis,Citroen,43864
+2017,9,September,Stellantis,DS,4461
+2017,9,September,Stellantis,Dodge,23
+2017,9,September,Stellantis,Fiat,62526
+2017,9,September,Stellantis,Jeep,10213
+2017,9,September,Stellantis,Lancia,4657
+2017,9,September,Stellantis,Opel,86365
+2017,9,September,Stellantis,Others,855
+2017,9,September,Stellantis,Peugeot,73538
+2017,9,September,Toyota Group,Others,5398
+2017,9,September,Toyota Group,Toyota,57388
+2017,9,September,Volkswagen Group,Audi,76713
+2017,9,September,Volkswagen Group,Others,453
+2017,9,September,Volkswagen Group,Seat,30739
+2017,9,September,Volkswagen Group,Skoda,49089
+2017,9,September,Volkswagen Group,Volkswagen,147113
+2017,10,October,Renault Group,Dacia,26866
+2017,10,October,Renault Group,Lada,267
+2017,10,October,Renault Group,Renault,82281
+2017,10,October,Stellantis,Alfa Romeo,6278
+2017,10,October,Stellantis,Chrysler,6
+2017,10,October,Stellantis,Citroen,41636
+2017,10,October,Stellantis,DS,3038
+2017,10,October,Stellantis,Dodge,17
+2017,10,October,Stellantis,Fiat,51654
+2017,10,October,Stellantis,Jeep,9261
+2017,10,October,Stellantis,Lancia,4495
+2017,10,October,Stellantis,Opel,62160
+2017,10,October,Stellantis,Others,987
+2017,10,October,Stellantis,Peugeot,74223
+2017,10,October,Toyota Group,Others,2739
+2017,10,October,Toyota Group,Toyota,46999
+2017,10,October,Volkswagen Group,Audi,63605
+2017,10,October,Volkswagen Group,Others,379
+2017,10,October,Volkswagen Group,Seat,31726
+2017,10,October,Volkswagen Group,Skoda,38807
+2017,10,October,Volkswagen Group,Volkswagen,123076
+2017,11,November,Renault Group,Dacia,30848
+2017,11,November,Renault Group,Lada,257
+2017,11,November,Renault Group,Renault,91913
+2017,11,November,Stellantis,Alfa Romeo,7320
+2017,11,November,Stellantis,Chrysler,6
+2017,11,November,Stellantis,Citroen,41824
+2017,11,November,Stellantis,DS,3450
+2017,11,November,Stellantis,Dodge,12
+2017,11,November,Stellantis,Fiat,48764
+2017,11,November,Stellantis,Jeep,10164
+2017,11,November,Stellantis,Lancia,3916
+2017,11,November,Stellantis,Opel,64741
+2017,11,November,Stellantis,Others,800
+2017,11,November,Stellantis,Peugeot,76976
+2017,11,November,Toyota Group,Others,3194
+2017,11,November,Toyota Group,Toyota,45450
+2017,11,November,Volkswagen Group,Audi,62552
+2017,11,November,Volkswagen Group,Others,332
+2017,11,November,Volkswagen Group,Seat,33419
+2017,11,November,Volkswagen Group,Skoda,41885
+2017,11,November,Volkswagen Group,Volkswagen,130520
+2017,12,December,Renault Group,Dacia,32109
+2017,12,December,Renault Group,Lada,267
+2017,12,December,Renault Group,Renault,93222
+2017,12,December,Stellantis,Alfa Romeo,5549
+2017,12,December,Stellantis,Chrysler,8
+2017,12,December,Stellantis,Citroen,35749
+2017,12,December,Stellantis,DS,3227
+2017,12,December,Stellantis,Dodge,65
+2017,12,December,Stellantis,Fiat,40683
+2017,12,December,Stellantis,Jeep,8731
+2017,12,December,Stellantis,Lancia,3142
+2017,12,December,Stellantis,Opel,52190
+2017,12,December,Stellantis,Others,741
+2017,12,December,Stellantis,Peugeot,68025
+2017,12,December,Toyota Group,Others,3130
+2017,12,December,Toyota Group,Toyota,38738
+2017,12,December,Volkswagen Group,Audi,52906
+2017,12,December,Volkswagen Group,Others,321
+2017,12,December,Volkswagen Group,Seat,26954
+2017,12,December,Volkswagen Group,Skoda,35256
+2017,12,December,Volkswagen Group,Volkswagen,116590
+2018,1,January,Renault Group,Dacia,33500
+2018,1,January,Renault Group,Lada,225
+2018,1,January,Renault Group,Renault,73529
+2018,1,January,Stellantis,Alfa Romeo,7281
+2018,1,January,Stellantis,Chrysler,3
+2018,1,January,Stellantis,Citroen,47822
+2018,1,January,Stellantis,DS,2768
+2018,1,January,Stellantis,Dodge,3
+2018,1,January,Stellantis,Fiat,57202
+2018,1,January,Stellantis,Jeep,12159
+2018,1,January,Stellantis,Lancia,4252
+2018,1,January,Stellantis,Opel,67983
+2018,1,January,Stellantis,Others,955
+2018,1,January,Stellantis,Peugeot,79302
+2018,1,January,Toyota Group,Lexus,3261
+2018,1,January,Toyota Group,Toyota,56012
+2018,1,January,Volkswagen Group,Audi,61914
+2018,1,January,Volkswagen Group,Others,406
+2018,1,January,Volkswagen Group,Seat,32088
+2018,1,January,Volkswagen Group,Skoda,42705
+2018,1,January,Volkswagen Group,Volkswagen,134805
+2018,2,February,Renault Group,Dacia,32778
+2018,2,February,Renault Group,Lada,224
+2018,2,February,Renault Group,Renault,74997
+2018,2,February,Stellantis,Alfa Romeo,7139
+2018,2,February,Stellantis,Chrysler,7
+2018,2,February,Stellantis,Citroen,47157
+2018,2,February,Stellantis,DS,2511
+2018,2,February,Stellantis,Dodge,12
+2018,2,February,Stellantis,Fiat,57966
+2018,2,February,Stellantis,Jeep,11646
+2018,2,February,Stellantis,Lancia,4189
+2018,2,February,Stellantis,Opel,59907
+2018,2,February,Stellantis,Others,801
+2018,2,February,Stellantis,Peugeot,75517
+2018,2,February,Toyota Group,Lexus,2208
+2018,2,February,Toyota Group,Toyota,43885
+2018,2,February,Volkswagen Group,Audi,56107
+2018,2,February,Volkswagen Group,Others,231
+2018,2,February,Volkswagen Group,Seat,32610
+2018,2,February,Volkswagen Group,Skoda,39773
+2018,2,February,Volkswagen Group,Volkswagen,115421
+2018,3,March,Renault Group,Dacia,38778
+2018,3,March,Renault Group,Lada,221
+2018,3,March,Renault Group,Renault,120048
+2018,3,March,Stellantis,Alfa Romeo,9723
+2018,3,March,Stellantis,Chrysler,4
+2018,3,March,Stellantis,Citroen,63789
+2018,3,March,Stellantis,DS,5647
+2018,3,March,Stellantis,Dodge,16
+2018,3,March,Stellantis,Fiat,84693
+2018,3,March,Stellantis,Jeep,16032
+2018,3,March,Stellantis,Lancia,5266
+2018,3,March,Stellantis,Opel,101527
+2018,3,March,Stellantis,Others,1296
+2018,3,March,Stellantis,Peugeot,102495
+2018,3,March,Toyota Group,Lexus,5831
+2018,3,March,Toyota Group,Toyota,69876
+2018,3,March,Volkswagen Group,Audi,85539
+2018,3,March,Volkswagen Group,Others,509
+2018,3,March,Volkswagen Group,Seat,46068
+2018,3,March,Volkswagen Group,Skoda,56211
+2018,3,March,Volkswagen Group,Volkswagen,179128
+2018,4,April,Renault Group,Dacia,36826
+2018,4,April,Renault Group,Lada,242
+2018,4,April,Renault Group,Renault,88495
+2018,4,April,Stellantis,Alfa Romeo,7520
+2018,4,April,Stellantis,Chrysler,1
+2018,4,April,Stellantis,Citroen,48944
+2018,4,April,Stellantis,DS,4580
+2018,4,April,Stellantis,Dodge,18
+2018,4,April,Stellantis,Fiat,60716
+2018,4,April,Stellantis,Jeep,13806
+2018,4,April,Stellantis,Lancia,4388
+2018,4,April,Stellantis,Opel,65884
+2018,4,April,Stellantis,Others,1037
+2018,4,April,Stellantis,Peugeot,82439
+2018,4,April,Toyota Group,Lexus,2901
+2018,4,April,Toyota Group,Toyota,52173
+2018,4,April,Volkswagen Group,Audi,67294
+2018,4,April,Volkswagen Group,Others,377
+2018,4,April,Volkswagen Group,Seat,40575
+2018,4,April,Volkswagen Group,Skoda,44165
+2018,4,April,Volkswagen Group,Volkswagen,150097
+2018,5,May,Renault Group,Dacia,41718
+2018,5,May,Renault Group,Lada,241
+2018,5,May,Renault Group,Renault,100982
+2018,5,May,Stellantis,Alfa Romeo,8861
+2018,5,May,Stellantis,Chrysler,8
+2018,5,May,Stellantis,Citroen,50739
+2018,5,May,Stellantis,DS,4309
+2018,5,May,Stellantis,Dodge,20
+2018,5,May,Stellantis,Fiat,72890
+2018,5,May,Stellantis,Jeep,17642
+2018,5,May,Stellantis,Lancia,5070
+2018,5,May,Stellantis,Opel,74489
+2018,5,May,Stellantis,Others,976
+2018,5,May,Stellantis,Peugeot,82463
+2018,5,May,Toyota Group,Lexus,3474
+2018,5,May,Toyota Group,Toyota,52832
+2018,5,May,Volkswagen Group,Audi,69497
+2018,5,May,Volkswagen Group,Others,330
+2018,5,May,Volkswagen Group,Seat,40821
+2018,5,May,Volkswagen Group,Skoda,47072
+2018,5,May,Volkswagen Group,Volkswagen,158748
+2018,6,June,Renault Group,Dacia,45482
+2018,6,June,Renault Group,Lada,274
+2018,6,June,Renault Group,Renault,128568
+2018,6,June,Stellantis,Alfa Romeo,8150
+2018,6,June,Stellantis,Chrysler,18
+2018,6,June,Stellantis,Citroen,59914
+2018,6,June,Stellantis,DS,5555
+2018,6,June,Stellantis,Dodge,18
+2018,6,June,Stellantis,Fiat,70724
+2018,6,June,Stellantis,Jeep,15444
+2018,6,June,Stellantis,Lancia,3999
+2018,6,June,Stellantis,Opel,82538
+2018,6,June,Stellantis,Others,1055
+2018,6,June,Stellantis,Peugeot,94717
+2018,6,June,Toyota Group,Lexus,3845
+2018,6,June,Toyota Group,Toyota,58963
+2018,6,June,Volkswagen Group,Audi,76306
+2018,6,June,Volkswagen Group,Others,515
+2018,6,June,Volkswagen Group,Seat,45294
+2018,6,June,Volkswagen Group,Skoda,53585
+2018,6,June,Volkswagen Group,Volkswagen,178847
+2018,7,July,Renault Group,Dacia,34859
+2018,7,July,Renault Group,Lada,275
+2018,7,July,Renault Group,Renault,84626
+2018,7,July,Stellantis,Alfa Romeo,8728
+2018,7,July,Stellantis,Chrysler,6
+2018,7,July,Stellantis,Citroen,47119
+2018,7,July,Stellantis,DS,4104
+2018,7,July,Stellantis,Dodge,19
+2018,7,July,Stellantis,Fiat,59560
+2018,7,July,Stellantis,Jeep,14551
+2018,7,July,Stellantis,Lancia,3458
+2018,7,July,Stellantis,Opel,60450
+2018,7,July,Stellantis,Others,1104
+2018,7,July,Stellantis,Peugeot,72789
+2018,7,July,Toyota Group,Lexus,3097
+2018,7,July,Toyota Group,Toyota,49394
+2018,7,July,Volkswagen Group,Audi,77208
+2018,7,July,Volkswagen Group,Others,664
+2018,7,July,Volkswagen Group,Seat,41747
+2018,7,July,Volkswagen Group,Skoda,42461
+2018,7,July,Volkswagen Group,Volkswagen,152402
+2018,8,August,Renault Group,Dacia,36272
+2018,8,August,Renault Group,Lada,322
+2018,8,August,Renault Group,Renault,88790
+2018,8,August,Stellantis,Alfa Romeo,8204
+2018,8,August,Stellantis,Chrysler,13
+2018,8,August,Stellantis,Citroen,37725
+2018,8,August,Stellantis,DS,2165
+2018,8,August,Stellantis,Dodge,15
+2018,8,August,Stellantis,Fiat,43058
+2018,8,August,Stellantis,Jeep,14284
+2018,8,August,Stellantis,Lancia,1278
+2018,8,August,Stellantis,Opel,47861
+2018,8,August,Stellantis,Others,841
+2018,8,August,Stellantis,Peugeot,54246
+2018,8,August,Toyota Group,Lexus,2251
+2018,8,August,Toyota Group,Toyota,38832
+2018,8,August,Volkswagen Group,Audi,62035
+2018,8,August,Volkswagen Group,Others,588
+2018,8,August,Volkswagen Group,Seat,37961
+2018,8,August,Volkswagen Group,Skoda,36432
+2018,8,August,Volkswagen Group,Volkswagen,131098
+2018,9,September,Renault Group,Dacia,21486
+2018,9,September,Renault Group,Lada,210
+2018,9,September,Renault Group,Renault,60706
+2018,9,September,Stellantis,Alfa Romeo,3172
+2018,9,September,Stellantis,Chrysler,3
+2018,9,September,Stellantis,Citroen,42537
+2018,9,September,Stellantis,DS,2932
+2018,9,September,Stellantis,Dodge,16
+2018,9,September,Stellantis,Fiat,41502
+2018,9,September,Stellantis,Jeep,9482
+2018,9,September,Stellantis,Lancia,3365
+2018,9,September,Stellantis,Opel,77094
+2018,9,September,Stellantis,Others,853
+2018,9,September,Stellantis,Peugeot,70119
+2018,9,September,Toyota Group,Lexus,4828
+2018,9,September,Toyota Group,Toyota,55904
+2018,9,September,Volkswagen Group,Audi,30129
+2018,9,September,Volkswagen Group,Others,145
+2018,9,September,Volkswagen Group,Seat,21122
+2018,9,September,Volkswagen Group,Skoda,31887
+2018,9,September,Volkswagen Group,Volkswagen,70022
+2018,10,October,Renault Group,Dacia,27139
+2018,10,October,Renault Group,Lada,201
+2018,10,October,Renault Group,Renault,63436
+2018,10,October,Stellantis,Alfa Romeo,3645
+2018,10,October,Stellantis,Chrysler,17
+2018,10,October,Stellantis,Citroen,43334
+2018,10,October,Stellantis,DS,2658
+2018,10,October,Stellantis,Dodge,18
+2018,10,October,Stellantis,Fiat,43169
+2018,10,October,Stellantis,Jeep,10205
+2018,10,October,Stellantis,Lancia,4478
+2018,10,October,Stellantis,Opel,58509
+2018,10,October,Stellantis,Others,835
+2018,10,October,Stellantis,Peugeot,75142
+2018,10,October,Toyota Group,Lexus,2645
+2018,10,October,Toyota Group,Toyota,49254
+2018,10,October,Volkswagen Group,Audi,29222
+2018,10,October,Volkswagen Group,Others,218
+2018,10,October,Volkswagen Group,Seat,27770
+2018,10,October,Volkswagen Group,Skoda,37715
+2018,10,October,Volkswagen Group,Volkswagen,103402
+2018,11,November,Renault Group,Dacia,33522
+2018,11,November,Renault Group,Lada,213
+2018,11,November,Renault Group,Renault,65693
+2018,11,November,Stellantis,Alfa Romeo,3769
+2018,11,November,Stellantis,Chrysler,7
+2018,11,November,Stellantis,Citroen,41468
+2018,11,November,Stellantis,DS,2966
+2018,11,November,Stellantis,Dodge,24
+2018,11,November,Stellantis,Fiat,42474
+2018,11,November,Stellantis,Jeep,12675
+2018,11,November,Stellantis,Lancia,4463
+2018,11,November,Stellantis,Opel,60599
+2018,11,November,Stellantis,Others,710
+2018,11,November,Stellantis,Peugeot,71447
+2018,11,November,Toyota Group,Lexus,3001
+2018,11,November,Toyota Group,Toyota,46249
+2018,11,November,Volkswagen Group,Audi,36728
+2018,11,November,Volkswagen Group,Others,413
+2018,11,November,Volkswagen Group,Seat,34105
+2018,11,November,Volkswagen Group,Skoda,42585
+2018,11,November,Volkswagen Group,Volkswagen,124293
+2018,12,December,Renault Group,Dacia,30476
+2018,12,December,Renault Group,Lada,165
+2018,12,December,Renault Group,Renault,73507
+2018,12,December,Stellantis,Alfa Romeo,3819
+2018,12,December,Stellantis,Chrysler,21
+2018,12,December,Stellantis,Citroen,37032
+2018,12,December,Stellantis,DS,3019
+2018,12,December,Stellantis,Dodge,66
+2018,12,December,Stellantis,Fiat,36022
+2018,12,December,Stellantis,Jeep,11951
+2018,12,December,Stellantis,Lancia,4357
+2018,12,December,Stellantis,Opel,49577
+2018,12,December,Stellantis,Others,614
+2018,12,December,Stellantis,Peugeot,60714
+2018,12,December,Toyota Group,Lexus,2820
+2018,12,December,Toyota Group,Toyota,33418
+2018,12,December,Volkswagen Group,Audi,42361
+2018,12,December,Volkswagen Group,Others,279
+2018,12,December,Volkswagen Group,Seat,23432
+2018,12,December,Volkswagen Group,Skoda,33547
+2018,12,December,Volkswagen Group,Volkswagen,108856
+2019,1,January,Renault Group,Dacia,36381
+2019,1,January,Renault Group,Lada,173
+2019,1,January,Renault Group,Renault,66952
+2019,1,January,Stellantis,Alfa Romeo,4687
+2019,1,January,Stellantis,Chrysler,6
+2019,1,January,Stellantis,Citroen,49128
+2019,1,January,Stellantis,DS,3315
+2019,1,January,Stellantis,Dodge,13
+2019,1,January,Stellantis,Fiat,45075
+2019,1,January,Stellantis,Jeep,11372
+2019,1,January,Stellantis,Lancia,6608
+2019,1,January,Stellantis,Maserati,458
+2019,1,January,Stellantis,Opel,63800
+2019,1,January,Stellantis,Peugeot,77778
+2019,1,January,Toyota Group,Lexus,3232
+2019,1,January,Toyota Group,Toyota,52762
+2019,1,January,Volkswagen Group,Audi,51995
+2019,1,January,Volkswagen Group,MAN,0
+2019,1,January,Volkswagen Group,Others,468
+2019,1,January,Volkswagen Group,Seat,34737
+2019,1,January,Volkswagen Group,Skoda,42298
+2019,1,January,Volkswagen Group,Volkswagen,128809
+2019,2,February,Renault Group,Dacia,32534
+2019,2,February,Renault Group,Lada,219
+2019,2,February,Renault Group,Renault,72965
+2019,2,February,Stellantis,Alfa Romeo,4137
+2019,2,February,Stellantis,Chrysler,3
+2019,2,February,Stellantis,Citroen,50357
+2019,2,February,Stellantis,DS,2749
+2019,2,February,Stellantis,Dodge,8
+2019,2,February,Stellantis,Fiat,50027
+2019,2,February,Stellantis,Jeep,15189
+2019,2,February,Stellantis,Lancia,5821
+2019,2,February,Stellantis,Maserati,455
+2019,2,February,Stellantis,Opel,57223
+2019,2,February,Stellantis,Peugeot,75194
+2019,2,February,Toyota Group,Lexus,2149
+2019,2,February,Toyota Group,Toyota,42368
+2019,2,February,Volkswagen Group,Audi,51537
+2019,2,February,Volkswagen Group,MAN,1
+2019,2,February,Volkswagen Group,Others,303
+2019,2,February,Volkswagen Group,Seat,32747
+2019,2,February,Volkswagen Group,Skoda,40353
+2019,2,February,Volkswagen Group,Volkswagen,120064
+2019,3,March,Renault Group,Dacia,48533
+2019,3,March,Renault Group,Lada,235
+2019,3,March,Renault Group,Renault,114400
+2019,3,March,Stellantis,Alfa Romeo,5222
+2019,3,March,Stellantis,Chrysler,7
+2019,3,March,Stellantis,Citroen,68107
+2019,3,March,Stellantis,DS,4269
+2019,3,March,Stellantis,Dodge,57
+2019,3,March,Stellantis,Fiat,72878
+2019,3,March,Stellantis,Jeep,15937
+2019,3,March,Stellantis,Lancia,6080
+2019,3,March,Stellantis,Maserati,498
+2019,3,March,Stellantis,Opel,99889
+2019,3,March,Stellantis,Peugeot,98240
+2019,3,March,Toyota Group,Lexus,6125
+2019,3,March,Toyota Group,Toyota,66765
+2019,3,March,Volkswagen Group,Audi,88542
+2019,3,March,Volkswagen Group,MAN,3
+2019,3,March,Volkswagen Group,Others,647
+2019,3,March,Volkswagen Group,Seat,48912
+2019,3,March,Volkswagen Group,Skoda,56901
+2019,3,March,Volkswagen Group,Volkswagen,173300
+2019,4,April,Renault Group,Dacia,39930
+2019,4,April,Renault Group,Lada,208
+2019,4,April,Renault Group,Renault,82241
+2019,4,April,Stellantis,Alfa Romeo,4335
+2019,4,April,Stellantis,Chrysler,11
+2019,4,April,Stellantis,Citroen,55472
+2019,4,April,Stellantis,DS,3489
+2019,4,April,Stellantis,Dodge,26
+2019,4,April,Stellantis,Fiat,60157
+2019,4,April,Stellantis,Jeep,12668
+2019,4,April,Stellantis,Lancia,5738
+2019,4,April,Stellantis,Maserati,519
+2019,4,April,Stellantis,Opel,63933
+2019,4,April,Stellantis,Peugeot,81291
+2019,4,April,Toyota Group,Lexus,3823
+2019,4,April,Toyota Group,Toyota,50658
+2019,4,April,Volkswagen Group,Audi,62644
+2019,4,April,Volkswagen Group,MAN,2
+2019,4,April,Volkswagen Group,Others,477
+2019,4,April,Volkswagen Group,Seat,42012
+2019,4,April,Volkswagen Group,Skoda,45195
+2019,4,April,Volkswagen Group,Volkswagen,139472
+2019,5,May,Renault Group,Dacia,43700
+2019,5,May,Renault Group,Lada,222
+2019,5,May,Renault Group,Renault,89482
+2019,5,May,Stellantis,Alfa Romeo,4424
+2019,5,May,Stellantis,Chrysler,7
+2019,5,May,Stellantis,Citroen,57374
+2019,5,May,Stellantis,DS,4179
+2019,5,May,Stellantis,Dodge,48
+2019,5,May,Stellantis,Fiat,69593
+2019,5,May,Stellantis,Jeep,15254
+2019,5,May,Stellantis,Lancia,6090
+2019,5,May,Stellantis,Maserati,460
+2019,5,May,Stellantis,Opel,74662
+2019,5,May,Stellantis,Peugeot,83030
+2019,5,May,Toyota Group,Lexus,4504
+2019,5,May,Toyota Group,Toyota,57846
+2019,5,May,Volkswagen Group,Audi,68887
+2019,5,May,Volkswagen Group,MAN,3
+2019,5,May,Volkswagen Group,Others,527
+2019,5,May,Volkswagen Group,Seat,46933
+2019,5,May,Volkswagen Group,Skoda,48475
+2019,5,May,Volkswagen Group,Volkswagen,145931
+2019,6,June,Renault Group,Dacia,46336
+2019,6,June,Renault Group,Lada,203
+2019,6,June,Renault Group,Renault,118375
+2019,6,June,Stellantis,Alfa Romeo,4970
+2019,6,June,Stellantis,Chrysler,2
+2019,6,June,Stellantis,Citroen,57363
+2019,6,June,Stellantis,DS,6078
+2019,6,June,Stellantis,Dodge,28
+2019,6,June,Stellantis,Fiat,58429
+2019,6,June,Stellantis,Jeep,15547
+2019,6,June,Stellantis,Lancia,4350
+2019,6,June,Stellantis,Maserati,533
+2019,6,June,Stellantis,Opel,74458
+2019,6,June,Stellantis,Peugeot,84165
+2019,6,June,Toyota Group,Lexus,4104
+2019,6,June,Toyota Group,Toyota,59330
+2019,6,June,Volkswagen Group,Audi,69510
+2019,6,June,Volkswagen Group,MAN,4
+2019,6,June,Volkswagen Group,Others,410
+2019,6,June,Volkswagen Group,Seat,48911
+2019,6,June,Volkswagen Group,Skoda,50123
+2019,6,June,Volkswagen Group,Volkswagen,155267
+2019,7,July,Renault Group,Dacia,38455
+2019,7,July,Renault Group,Lada,259
+2019,7,July,Renault Group,Renault,65260
+2019,7,July,Stellantis,Alfa Romeo,4197
+2019,7,July,Stellantis,Chrysler,9
+2019,7,July,Stellantis,Citroen,51535
+2019,7,July,Stellantis,DS,4478
+2019,7,July,Stellantis,Dodge,38
+2019,7,July,Stellantis,Fiat,47316
+2019,7,July,Stellantis,Jeep,15090
+2019,7,July,Stellantis,Lancia,4318
+2019,7,July,Stellantis,Maserati,575
+2019,7,July,Stellantis,Opel,64811
+2019,7,July,Stellantis,Peugeot,75048
+2019,7,July,Toyota Group,Lexus,4067
+2019,7,July,Toyota Group,Toyota,54659
+2019,7,July,Volkswagen Group,Audi,67919
+2019,7,July,Volkswagen Group,MAN,5
+2019,7,July,Volkswagen Group,Others,556
+2019,7,July,Volkswagen Group,Seat,47940
+2019,7,July,Volkswagen Group,Skoda,47920
+2019,7,July,Volkswagen Group,Volkswagen,144186
+2019,8,August,Renault Group,Dacia,37338
+2019,8,August,Renault Group,Lada,390
+2019,8,August,Renault Group,Renault,55136
+2019,8,August,Stellantis,Alfa Romeo,3088
+2019,8,August,Stellantis,Chrysler,4
+2019,8,August,Stellantis,Citroen,34962
+2019,8,August,Stellantis,DS,2866
+2019,8,August,Stellantis,Dodge,17
+2019,8,August,Stellantis,Fiat,32387
+2019,8,August,Stellantis,Jeep,10946
+2019,8,August,Stellantis,Lancia,2504
+2019,8,August,Stellantis,Maserati,391
+2019,8,August,Stellantis,Opel,45301
+2019,8,August,Stellantis,Peugeot,52669
+2019,8,August,Toyota Group,Lexus,2948
+2019,8,August,Toyota Group,Toyota,40171
+2019,8,August,Volkswagen Group,Audi,56924
+2019,8,August,Volkswagen Group,MAN,3
+2019,8,August,Volkswagen Group,Others,415
+2019,8,August,Volkswagen Group,Seat,39001
+2019,8,August,Volkswagen Group,Skoda,40319
+2019,8,August,Volkswagen Group,Volkswagen,114416
+2019,9,September,Renault Group,Dacia,27288
+2019,9,September,Renault Group,Lada,136
+2019,9,September,Renault Group,Renault,80507
+2019,9,September,Stellantis,Alfa Romeo,3840
+2019,9,September,Stellantis,Chrysler,5
+2019,9,September,Stellantis,Citroen,47407
+2019,9,September,Stellantis,DS,4000
+2019,9,September,Stellantis,Dodge,38
+2019,9,September,Stellantis,Fiat,44530
+2019,9,September,Stellantis,Jeep,10882
+2019,9,September,Stellantis,Lancia,4157
+2019,9,September,Stellantis,Maserati,349
+2019,9,September,Stellantis,Opel,75980
+2019,9,September,Stellantis,Peugeot,70689
+2019,9,September,Toyota Group,Lexus,6517
+2019,9,September,Toyota Group,Toyota,58107
+2019,9,September,Volkswagen Group,Audi,41828
+2019,9,September,Volkswagen Group,MAN,0
+2019,9,September,Volkswagen Group,Others,372
+2019,9,September,Volkswagen Group,Seat,32731
+2019,9,September,Volkswagen Group,Skoda,40713
+2019,9,September,Volkswagen Group,Volkswagen,109791
+2019,10,October,Renault Group,Dacia,30357
+2019,10,October,Renault Group,Lada,157
+2019,10,October,Renault Group,Renault,72921
+2019,10,October,Stellantis,Alfa Romeo,3999
+2019,10,October,Stellantis,Chrysler,0
+2019,10,October,Stellantis,Citroen,47864
+2019,10,October,Stellantis,DS,4658
+2019,10,October,Stellantis,Dodge,52
+2019,10,October,Stellantis,Fiat,41875
+2019,10,October,Stellantis,Jeep,10464
+2019,10,October,Stellantis,Lancia,4847
+2019,10,October,Stellantis,Maserati,366
+2019,10,October,Stellantis,Opel,41905
+2019,10,October,Stellantis,Peugeot,75550
+2019,10,October,Toyota Group,Lexus,3800
+2019,10,October,Toyota Group,Toyota,53093
+2019,10,October,Volkswagen Group,Audi,48844
+2019,10,October,Volkswagen Group,MAN,6
+2019,10,October,Volkswagen Group,Others,343
+2019,10,October,Volkswagen Group,Seat,34592
+2019,10,October,Volkswagen Group,Skoda,39993
+2019,10,October,Volkswagen Group,Volkswagen,134877
+2019,11,November,Renault Group,Dacia,32152
+2019,11,November,Renault Group,Lada,151
+2019,11,November,Renault Group,Renault,72779
+2019,11,November,Stellantis,Alfa Romeo,3879
+2019,11,November,Stellantis,Chrysler,6
+2019,11,November,Stellantis,Citroen,40503
+2019,11,November,Stellantis,DS,4084
+2019,11,November,Stellantis,Dodge,48
+2019,11,November,Stellantis,Fiat,41246
+2019,11,November,Stellantis,Jeep,10900
+2019,11,November,Stellantis,Lancia,4321
+2019,11,November,Stellantis,Maserati,299
+2019,11,November,Stellantis,Opel,46452
+2019,11,November,Stellantis,Peugeot,70149
+2019,11,November,Toyota Group,Lexus,3965
+2019,11,November,Toyota Group,Toyota,47774
+2019,11,November,Volkswagen Group,Audi,51405
+2019,11,November,Volkswagen Group,MAN,4
+2019,11,November,Volkswagen Group,Others,284
+2019,11,November,Volkswagen Group,Seat,37273
+2019,11,November,Volkswagen Group,Skoda,42186
+2019,11,November,Volkswagen Group,Volkswagen,137503
+2019,12,December,Renault Group,Dacia,40049
+2019,12,December,Renault Group,Lada,149
+2019,12,December,Renault Group,Renault,89517
+2019,12,December,Stellantis,Alfa Romeo,3960
+2019,12,December,Stellantis,Chrysler,2
+2019,12,December,Stellantis,Citroen,40377
+2019,12,December,Stellantis,DS,5075
+2019,12,December,Stellantis,Dodge,35
+2019,12,December,Stellantis,Fiat,42769
+2019,12,December,Stellantis,Jeep,10874
+2019,12,December,Stellantis,Lancia,3924
+2019,12,December,Stellantis,Maserati,449
+2019,12,December,Stellantis,Opel,32291
+2019,12,December,Stellantis,Peugeot,67810
+2019,12,December,Toyota Group,Lexus,4389
+2019,12,December,Toyota Group,Toyota,40084
+2019,12,December,Volkswagen Group,Audi,55233
+2019,12,December,Volkswagen Group,MAN,3
+2019,12,December,Volkswagen Group,Others,373
+2019,12,December,Volkswagen Group,Seat,31028
+2019,12,December,Volkswagen Group,Skoda,41544
+2019,12,December,Volkswagen Group,Volkswagen,124213
+2020,1,January,Renault Group,Dacia,25165
+2020,1,January,Renault Group,Lada,177
+2020,1,January,Renault Group,Renault,62159
+2020,1,January,Stellantis,Alfa Romeo,3207
+2020,1,January,Stellantis,Chrysler,0
+2020,1,January,Stellantis,Citroen,45124
+2020,1,January,Stellantis,DS,4855
+2020,1,January,Stellantis,Dodge,1
+2020,1,January,Stellantis,Fiat,42832
+2020,1,January,Stellantis,Jeep,9957
+2020,1,January,Stellantis,Lancia,6253
+2020,1,January,Stellantis,Maserati,339
+2020,1,January,Stellantis,Opel,48351
+2020,1,January,Stellantis,Peugeot,70895
+2020,1,January,Toyota Group,Lexus,4374
+2020,1,January,Toyota Group,Toyota,55148
+2020,1,January,Volkswagen Group,Audi,56122
+2020,1,January,Volkswagen Group,MAN,29
+2020,1,January,Volkswagen Group,Others,556
+2020,1,January,Volkswagen Group,Seat,37625
+2020,1,January,Volkswagen Group,Skoda,40417
+2020,1,January,Volkswagen Group,Volkswagen,121100
+2020,2,February,Renault Group,Dacia,23094
+2020,2,February,Renault Group,Lada,187
+2020,2,February,Renault Group,Renault,68484
+2020,2,February,Stellantis,Alfa Romeo,3234
+2020,2,February,Stellantis,Chrysler,2
+2020,2,February,Stellantis,Citroen,47604
+2020,2,February,Stellantis,DS,5676
+2020,2,February,Stellantis,Dodge,2
+2020,2,February,Stellantis,Fiat,49720
+2020,2,February,Stellantis,Jeep,9824
+2020,2,February,Stellantis,Lancia,5948
+2020,2,February,Stellantis,Maserati,263
+2020,2,February,Stellantis,Opel,46918
+2020,2,February,Stellantis,Peugeot,71481
+2020,2,February,Toyota Group,Lexus,3187
+2020,2,February,Toyota Group,Toyota,46372
+2020,2,February,Volkswagen Group,Audi,48761
+2020,2,February,Volkswagen Group,MAN,50
+2020,2,February,Volkswagen Group,Others,359
+2020,2,February,Volkswagen Group,Seat,35859
+2020,2,February,Volkswagen Group,Skoda,38817
+2020,2,February,Volkswagen Group,Volkswagen,109778
+2020,3,March,Renault Group,Dacia,14414
+2020,3,March,Renault Group,Lada,170
+2020,3,March,Renault Group,Renault,39185
+2020,3,March,Stellantis,Alfa Romeo,1229
+2020,3,March,Stellantis,Chrysler,1
+2020,3,March,Stellantis,Citroen,20111
+2020,3,March,Stellantis,DS,2403
+2020,3,March,Stellantis,Dodge,3
+2020,3,March,Stellantis,Fiat,18531
+2020,3,March,Stellantis,Jeep,3719
+2020,3,March,Stellantis,Lancia,515
+2020,3,March,Stellantis,Maserati,183
+2020,3,March,Stellantis,Opel,30975
+2020,3,March,Stellantis,Peugeot,33749
+2020,3,March,Toyota Group,Lexus,3963
+2020,3,March,Toyota Group,Toyota,40293
+2020,3,March,Volkswagen Group,Audi,49427
+2020,3,March,Volkswagen Group,MAN,29
+2020,3,March,Volkswagen Group,Others,428
+2020,3,March,Volkswagen Group,Seat,27925
+2020,3,March,Volkswagen Group,Skoda,34144
+2020,3,March,Volkswagen Group,Volkswagen,90921
+2020,4,April,Renault Group,Dacia,5943
+2020,4,April,Renault Group,Lada,112
+2020,4,April,Renault Group,Renault,15787
+2020,4,April,Stellantis,Alfa Romeo,591
+2020,4,April,Stellantis,Chrysler,2
+2020,4,April,Stellantis,Citroen,9345
+2020,4,April,Stellantis,DS,900
+2020,4,April,Stellantis,Dodge,6
+2020,4,April,Stellantis,Fiat,7394
+2020,4,April,Stellantis,Jeep,1357
+2020,4,April,Stellantis,Lancia,110
+2020,4,April,Stellantis,Maserati,46
+2020,4,April,Stellantis,Opel,10402
+2020,4,April,Stellantis,Peugeot,13421
+2020,4,April,Toyota Group,Lexus,389
+2020,4,April,Toyota Group,Toyota,10693
+2020,4,April,Volkswagen Group,Audi,14286
+2020,4,April,Volkswagen Group,MAN,17
+2020,4,April,Volkswagen Group,Others,169
+2020,4,April,Volkswagen Group,Seat,7849
+2020,4,April,Volkswagen Group,Skoda,14152
+2020,4,April,Volkswagen Group,Volkswagen,32666
+2020,5,May,Renault Group,Dacia,19519
+2020,5,May,Renault Group,Lada,124
+2020,5,May,Renault Group,Renault,42318
+2020,5,May,Stellantis,Alfa Romeo,1939
+2020,5,May,Stellantis,Chrysler,2
+2020,5,May,Stellantis,Citroen,25944
+2020,5,May,Stellantis,DS,2440
+2020,5,May,Stellantis,Dodge,1
+2020,5,May,Stellantis,Fiat,29914
+2020,5,May,Stellantis,Jeep,6818
+2020,5,May,Stellantis,Lancia,2438
+2020,5,May,Stellantis,Maserati,142
+2020,5,May,Stellantis,Opel,22977
+2020,5,May,Stellantis,Peugeot,38351
+2020,5,May,Toyota Group,Lexus,1635
+2020,5,May,Toyota Group,Toyota,25481
+2020,5,May,Volkswagen Group,Audi,31712
+2020,5,May,Volkswagen Group,MAN,27
+2020,5,May,Volkswagen Group,Others,210
+2020,5,May,Volkswagen Group,Seat,15899
+2020,5,May,Volkswagen Group,Skoda,22403
+2020,5,May,Volkswagen Group,Volkswagen,63561
+2020,6,June,Renault Group,Dacia,37255
+2020,6,June,Renault Group,Lada,292
+2020,6,June,Renault Group,Renault,100165
+2020,6,June,Stellantis,Alfa Romeo,2975
+2020,6,June,Stellantis,Chrysler,4
+2020,6,June,Stellantis,Citroen,44505
+2020,6,June,Stellantis,DS,3823
+2020,6,June,Stellantis,Dodge,8
+2020,6,June,Stellantis,Fiat,43837
+2020,6,June,Stellantis,Jeep,9906
+2020,6,June,Stellantis,Lancia,3508
+2020,6,June,Stellantis,Maserati,315
+2020,6,June,Stellantis,Opel,39578
+2020,6,June,Stellantis,Peugeot,70640
+2020,6,June,Toyota Group,Lexus,4036
+2020,6,June,Toyota Group,Toyota,50372
+2020,6,June,Volkswagen Group,Audi,50083
+2020,6,June,Volkswagen Group,MAN,38
+2020,6,June,Volkswagen Group,Others,407
+2020,6,June,Volkswagen Group,Seat,31762
+2020,6,June,Volkswagen Group,Skoda,41282
+2020,6,June,Volkswagen Group,Volkswagen,110618
+2020,7,July,Renault Group,Dacia,35505
+2020,7,July,Renault Group,Lada,204
+2020,7,July,Renault Group,Renault,83010
+2020,7,July,Stellantis,Alfa Romeo,3202
+2020,7,July,Stellantis,Chrysler,1
+2020,7,July,Stellantis,Citroen,43031
+2020,7,July,Stellantis,DS,4206
+2020,7,July,Stellantis,Dodge,8
+2020,7,July,Stellantis,Fiat,46846
+2020,7,July,Stellantis,Jeep,12262
+2020,7,July,Stellantis,Lancia,3641
+2020,7,July,Stellantis,Maserati,333
+2020,7,July,Stellantis,Opel,43459
+2020,7,July,Stellantis,Peugeot,76195
+2020,7,July,Toyota Group,Lexus,4135
+2020,7,July,Toyota Group,Toyota,56135
+2020,7,July,Volkswagen Group,Audi,62616
+2020,7,July,Volkswagen Group,MAN,60
+2020,7,July,Volkswagen Group,Others,569
+2020,7,July,Volkswagen Group,Seat,40205
+2020,7,July,Volkswagen Group,Skoda,53210
+2020,7,July,Volkswagen Group,Volkswagen,136437
+2020,8,August,Renault Group,Dacia,24490
+2020,8,August,Renault Group,Lada,366
+2020,8,August,Renault Group,Renault,49165
+2020,8,August,Stellantis,Alfa Romeo,2598
+2020,8,August,Stellantis,Chrysler,1
+2020,8,August,Stellantis,Citroen,30938
+2020,8,August,Stellantis,DS,2346
+2020,8,August,Stellantis,Dodge,4
+2020,8,August,Stellantis,Fiat,31112
+2020,8,August,Stellantis,Jeep,9723
+2020,8,August,Stellantis,Lancia,2263
+2020,8,August,Stellantis,Maserati,277
+2020,8,August,Stellantis,Opel,30142
+2020,8,August,Stellantis,Peugeot,50034
+2020,8,August,Toyota Group,Lexus,2196
+2020,8,August,Toyota Group,Toyota,39327
+2020,8,August,Volkswagen Group,Audi,41019
+2020,8,August,Volkswagen Group,MAN,37
+2020,8,August,Volkswagen Group,Others,248
+2020,8,August,Volkswagen Group,Seat,27105
+2020,8,August,Volkswagen Group,Skoda,34694
+2020,8,August,Volkswagen Group,Volkswagen,89605
+2020,9,September,Renault Group,Dacia,35442
+2020,9,September,Renault Group,Lada,47
+2020,9,September,Renault Group,Renault,79120
+2020,9,September,Stellantis,Alfa Romeo,3802
+2020,9,September,Stellantis,Chrysler,4
+2020,9,September,Stellantis,Citroen,42543
+2020,9,September,Stellantis,DS,3429
+2020,9,September,Stellantis,Dodge,18
+2020,9,September,Stellantis,Fiat,49378
+2020,9,September,Stellantis,Jeep,13180
+2020,9,September,Stellantis,Lancia,4689
+2020,9,September,Stellantis,Maserati,325
+2020,9,September,Stellantis,Opel,51752
+2020,9,September,Stellantis,Peugeot,72675
+2020,9,September,Toyota Group,Lexus,5878
+2020,9,September,Toyota Group,Toyota,63482
+2020,9,September,Volkswagen Group,Audi,59023
+2020,9,September,Volkswagen Group,MAN,56
+2020,9,September,Volkswagen Group,Others,474
+2020,9,September,Volkswagen Group,Seat,35294
+2020,9,September,Volkswagen Group,Skoda,48098
+2020,9,September,Volkswagen Group,Volkswagen,118021
+2020,10,October,Renault Group,Dacia,29844
+2020,10,October,Renault Group,Lada,17
+2020,10,October,Renault Group,Renault,74035
+2020,10,October,Stellantis,Alfa Romeo,3161
+2020,10,October,Stellantis,Chrysler,4
+2020,10,October,Stellantis,Citroen,42468
+2020,10,October,Stellantis,DS,3816
+2020,10,October,Stellantis,Dodge,5
+2020,10,October,Stellantis,Fiat,45110
+2020,10,October,Stellantis,Jeep,10904
+2020,10,October,Stellantis,Lancia,4717
+2020,10,October,Stellantis,Maserati,296
+2020,10,October,Stellantis,Opel,45360
+2020,10,October,Stellantis,Peugeot,72586
+2020,10,October,Toyota Group,Lexus,3429
+2020,10,October,Toyota Group,Toyota,48769
+2020,10,October,Volkswagen Group,Audi,57957
+2020,10,October,Volkswagen Group,MAN,28
+2020,10,October,Volkswagen Group,Others,411
+2020,10,October,Volkswagen Group,Seat,31763
+2020,10,October,Volkswagen Group,Skoda,42902
+2020,10,October,Volkswagen Group,Volkswagen,113403
+2020,11,November,Renault Group,Dacia,25930
+2020,11,November,Renault Group,Lada,55
+2020,11,November,Renault Group,Renault,62670
+2020,11,November,Stellantis,Alfa Romeo,3384
+2020,11,November,Stellantis,Chrysler,1
+2020,11,November,Stellantis,Citroen,33785
+2020,11,November,Stellantis,DS,3808
+2020,11,November,Stellantis,Dodge,1
+2020,11,November,Stellantis,Fiat,38962
+2020,11,November,Stellantis,Jeep,11641
+2020,11,November,Stellantis,Lancia,4218
+2020,11,November,Stellantis,Maserati,341
+2020,11,November,Stellantis,Opel,42199
+2020,11,November,Stellantis,Peugeot,62158
+2020,11,November,Toyota Group,Lexus,2858
+2020,11,November,Toyota Group,Toyota,46648
+2020,11,November,Volkswagen Group,Audi,51362
+2020,11,November,Volkswagen Group,MAN,42
+2020,11,November,Volkswagen Group,Others,335
+2020,11,November,Volkswagen Group,Seat,28467
+2020,11,November,Volkswagen Group,Skoda,38781
+2020,11,November,Volkswagen Group,Volkswagen,111161
+2020,12,December,Renault Group,Dacia,28970
+2020,12,December,Renault Group,Lada,67
+2020,12,December,Renault Group,Renault,79495
+2020,12,December,Stellantis,Alfa Romeo,4006
+2020,12,December,Stellantis,Chrysler,3
+2020,12,December,Stellantis,Citroen,37164
+2020,12,December,Stellantis,DS,4756
+2020,12,December,Stellantis,Dodge,33
+2020,12,December,Stellantis,Fiat,44359
+2020,12,December,Stellantis,Jeep,11733
+2020,12,December,Stellantis,Lancia,4728
+2020,12,December,Stellantis,Maserati,413
+2020,12,December,Stellantis,Opel,39084
+2020,12,December,Stellantis,Peugeot,68362
+2020,12,December,Toyota Group,Lexus,4336
+2020,12,December,Toyota Group,Toyota,51303
+2020,12,December,Volkswagen Group,Audi,51782
+2020,12,December,Volkswagen Group,MAN,50
+2020,12,December,Volkswagen Group,Others,404
+2020,12,December,Volkswagen Group,Seat,34125
+2020,12,December,Volkswagen Group,Skoda,45479
+2020,12,December,Volkswagen Group,Volkswagen,145749
+2021,1,January,Renault Group,Dacia,24441
+2021,1,January,Renault Group,Lada,59
+2021,1,January,Renault Group,Renault,46422
+2021,1,January,Stellantis,Alfa Romeo,1665
+2021,1,January,Stellantis,Chrysler,0
+2021,1,January,Stellantis,Citroen,30771
+2021,1,January,Stellantis,DS,2660
+2021,1,January,Stellantis,Dodge,1
+2021,1,January,Stellantis,Fiat,31555
+2021,1,January,Stellantis,Jeep,8674
+2021,1,January,Stellantis,Lancia,4048
+2021,1,January,Stellantis,Maserati,320
+2021,1,January,Stellantis,Opel,32183
+2021,1,January,Stellantis,Peugeot,57973
+2021,1,January,Toyota Group,Lexus,2544
+2021,1,January,Toyota Group,Toyota,45136
+2021,1,January,Volkswagen Group,Audi,37999
+2021,1,January,Volkswagen Group,MAN,63
+2021,1,January,Volkswagen Group,Others,409
+2021,1,January,Volkswagen Group,Seat,27744
+2021,1,January,Volkswagen Group,Skoda,32841
+2021,1,January,Volkswagen Group,Volkswagen,82378
+2021,2,February,Renault Group,Dacia,21051
+2021,2,February,Renault Group,Lada,87
+2021,2,February,Renault Group,Renault,45025
+2021,2,February,Stellantis,Alfa Romeo,1708
+2021,2,February,Stellantis,Chrysler,0
+2021,2,February,Stellantis,Citroen,36417
+2021,2,February,Stellantis,DS,2957
+2021,2,February,Stellantis,Dodge,4
+2021,2,February,Stellantis,Fiat,36527
+2021,2,February,Stellantis,Jeep,9179
+2021,2,February,Stellantis,Lancia,3866
+2021,2,February,Stellantis,Maserati,214
+2021,2,February,Stellantis,Opel,33647
+2021,2,February,Stellantis,Peugeot,62400
+2021,2,February,Toyota Group,Lexus,2032
+2021,2,February,Toyota Group,Toyota,40523
+2021,2,February,Volkswagen Group,Audi,40317
+2021,2,February,Volkswagen Group,MAN,41
+2021,2,February,Volkswagen Group,Others,234
+2021,2,February,Volkswagen Group,Seat,27162
+2021,2,February,Volkswagen Group,Skoda,33570
+2021,2,February,Volkswagen Group,Volkswagen,85437
+2021,3,March,Renault Group,Dacia,27712
+2021,3,March,Renault Group,Lada,147
+2021,3,March,Renault Group,Renault,69925
+2021,3,March,Stellantis,Alfa Romeo,2522
+2021,3,March,Stellantis,Chrysler,2
+2021,3,March,Stellantis,Citroen,53667
+2021,3,March,Stellantis,DS,4114
+2021,3,March,Stellantis,Dodge,5
+2021,3,March,Stellantis,Fiat,53831
+2021,3,March,Stellantis,Jeep,13772
+2021,3,March,Stellantis,Lancia,5093
+2021,3,March,Stellantis,Maserati,468
+2021,3,March,Stellantis,Opel,59814
+2021,3,March,Stellantis,Peugeot,84393
+2021,3,March,Toyota Group,Lexus,5122
+2021,3,March,Toyota Group,Toyota,64380
+2021,3,March,Volkswagen Group,Audi,69052
+2021,3,March,Volkswagen Group,MAN,53
+2021,3,March,Volkswagen Group,Others,543
+2021,3,March,Volkswagen Group,Seat,43024
+2021,3,March,Volkswagen Group,Skoda,48151
+2021,3,March,Volkswagen Group,Volkswagen,136308
+2021,4,April,Renault Group,Dacia,23339
+2021,4,April,Renault Group,Lada,155
+2021,4,April,Renault Group,Renault,51957
+2021,4,April,Stellantis,Alfa Romeo,1739
+2021,4,April,Stellantis,Chrysler,0
+2021,4,April,Stellantis,Citroen,40064
+2021,4,April,Stellantis,DS,3269
+2021,4,April,Stellantis,Dodge,5
+2021,4,April,Stellantis,Fiat,43290
+2021,4,April,Stellantis,Jeep,11091
+2021,4,April,Stellantis,Lancia,5152
+2021,4,April,Stellantis,Maserati,272
+2021,4,April,Stellantis,Opel,42221
+2021,4,April,Stellantis,Peugeot,66548
+2021,4,April,Toyota Group,Lexus,2878
+2021,4,April,Toyota Group,Toyota,48480
+2021,4,April,Volkswagen Group,Audi,54431
+2021,4,April,Volkswagen Group,MAN,52
+2021,4,April,Volkswagen Group,Others,440
+2021,4,April,Volkswagen Group,Seat,36374
+2021,4,April,Volkswagen Group,Skoda,39498
+2021,4,April,Volkswagen Group,Volkswagen,110458
+2021,5,May,Renault Group,Dacia,23837
+2021,5,May,Renault Group,Lada,118
+2021,5,May,Renault Group,Renault,55988
+2021,5,May,Stellantis,Alfa Romeo,2332
+2021,5,May,Stellantis,Chrysler,3
+2021,5,May,Stellantis,Citroen,40209
+2021,5,May,Stellantis,DS,3426
+2021,5,May,Stellantis,Dodge,3
+2021,5,May,Stellantis,Fiat,47032
+2021,5,May,Stellantis,Jeep,10454
+2021,5,May,Stellantis,Lancia,4612
+2021,5,May,Stellantis,Maserati,314
+2021,5,May,Stellantis,Opel,40837
+2021,5,May,Stellantis,Peugeot,61210
+2021,5,May,Toyota Group,Lexus,3256
+2021,5,May,Toyota Group,Toyota,51570
+2021,5,May,Volkswagen Group,Audi,58910
+2021,5,May,Volkswagen Group,MAN,63
+2021,5,May,Volkswagen Group,Others,458
+2021,5,May,Volkswagen Group,Seat,42749
+2021,5,May,Volkswagen Group,Skoda,44872
+2021,5,May,Volkswagen Group,Volkswagen,116781
+2021,6,June,Renault Group,Dacia,35757
+2021,6,June,Renault Group,Lada,92
+2021,6,June,Renault Group,Renault,77359
+2021,6,June,Stellantis,Alfa Romeo,2509
+2021,6,June,Stellantis,Chrysler,2
+2021,6,June,Stellantis,Citroen,47051
+2021,6,June,Stellantis,DS,5241
+2021,6,June,Stellantis,Dodge,6
+2021,6,June,Stellantis,Fiat,52646
+2021,6,June,Stellantis,Jeep,13189
+2021,6,June,Stellantis,Lancia,4335
+2021,6,June,Stellantis,Maserati,349
+2021,6,June,Stellantis,Opel,49738
+2021,6,June,Stellantis,Peugeot,68637
+2021,6,June,Toyota Group,Lexus,4474
+2021,6,June,Toyota Group,Toyota,65132
+2021,6,June,Volkswagen Group,Audi,66290
+2021,6,June,Volkswagen Group,MAN,100
+2021,6,June,Volkswagen Group,Others,403
+2021,6,June,Volkswagen Group,Seat,46055
+2021,6,June,Volkswagen Group,Skoda,47348
+2021,6,June,Volkswagen Group,Volkswagen,143088
+2021,7,July,Renault Group,Dacia,28949
+2021,7,July,Renault Group,Lada,109
+2021,7,July,Renault Group,Renault,38318
+2021,7,July,Stellantis,Alfa Romeo,1839
+2021,7,July,Stellantis,Chrysler,2
+2021,7,July,Stellantis,Citroen,29849
+2021,7,July,Stellantis,DS,3373
+2021,7,July,Stellantis,Dodge,14
+2021,7,July,Stellantis,Fiat,34796
+2021,7,July,Stellantis,Jeep,11184
+2021,7,July,Stellantis,Lancia,3141
+2021,7,July,Stellantis,Maserati,389
+2021,7,July,Stellantis,Opel,35965
+2021,7,July,Stellantis,Peugeot,50146
+2021,7,July,Toyota Group,Lexus,3261
+2021,7,July,Toyota Group,Toyota,53376
+2021,7,July,Volkswagen Group,Audi,50680
+2021,7,July,Volkswagen Group,MAN,108
+2021,7,July,Volkswagen Group,Others,406
+2021,7,July,Volkswagen Group,Seat,34624
+2021,7,July,Volkswagen Group,Skoda,37616
+2021,7,July,Volkswagen Group,Volkswagen,110252
+2021,8,August,Renault Group,Dacia,20979
+2021,8,August,Renault Group,Lada,173
+2021,8,August,Renault Group,Renault,33546
+2021,8,August,Stellantis,Alfa Romeo,1185
+2021,8,August,Stellantis,Chrysler,0
+2021,8,August,Stellantis,Citroen,21416
+2021,8,August,Stellantis,DS,2047
+2021,8,August,Stellantis,Dodge,8
+2021,8,August,Stellantis,Fiat,23766
+2021,8,August,Stellantis,Jeep,7027
+2021,8,August,Stellantis,Lancia,2057
+2021,8,August,Stellantis,Maserati,168
+2021,8,August,Stellantis,Opel,24783
+2021,8,August,Stellantis,Peugeot,29923
+2021,8,August,Toyota Group,Lexus,2429
+2021,8,August,Toyota Group,Toyota,39347
+2021,8,August,Volkswagen Group,Audi,37699
+2021,8,August,Volkswagen Group,MAN,146
+2021,8,August,Volkswagen Group,Others,291
+2021,8,August,Volkswagen Group,Seat,23784
+2021,8,August,Volkswagen Group,Skoda,25288
+2021,8,August,Volkswagen Group,Volkswagen,77466
+2021,9,September,Renault Group,Dacia,32042
+2021,9,September,Renault Group,Lada,110
+2021,9,September,Renault Group,Renault,54696
+2021,9,September,Stellantis,Alfa Romeo,1947
+2021,9,September,Stellantis,Chrysler,1
+2021,9,September,Stellantis,Citroen,32436
+2021,9,September,Stellantis,DS,3730
+2021,9,September,Stellantis,Dodge,2
+2021,9,September,Stellantis,Fiat,33211
+2021,9,September,Stellantis,Jeep,9742
+2021,9,September,Stellantis,Lancia,2945
+2021,9,September,Stellantis,Maserati,407
+2021,9,September,Stellantis,Opel,38341
+2021,9,September,Stellantis,Peugeot,46811
+2021,9,September,Toyota Group,Lexus,5003
+2021,9,September,Toyota Group,Toyota,49892
+2021,9,September,Volkswagen Group,Audi,40137
+2021,9,September,Volkswagen Group,MAN,122
+2021,9,September,Volkswagen Group,Others,486
+2021,9,September,Volkswagen Group,Seat,28420
+2021,9,September,Volkswagen Group,Skoda,28480
+2021,9,September,Volkswagen Group,Volkswagen,84499
+2021,10,October,Renault Group,Dacia,24660
+2021,10,October,Renault Group,Lada,81
+2021,10,October,Renault Group,Renault,46776
+2021,10,October,Stellantis,Alfa Romeo,1625
+2021,10,October,Stellantis,Chrysler,5
+2021,10,October,Stellantis,Citroen,28316
+2021,10,October,Stellantis,DS,3100
+2021,10,October,Stellantis,Dodge,3
+2021,10,October,Stellantis,Fiat,31694
+2021,10,October,Stellantis,Jeep,7542
+2021,10,October,Stellantis,Lancia,3013
+2021,10,October,Stellantis,Maserati,359
+2021,10,October,Stellantis,Opel,30122
+2021,10,October,Stellantis,Peugeot,49952
+2021,10,October,Toyota Group,Lexus,2760
+2021,10,October,Toyota Group,Toyota,35619
+2021,10,October,Volkswagen Group,Audi,31306
+2021,10,October,Volkswagen Group,MAN,124
+2021,10,October,Volkswagen Group,Others,380
+2021,10,October,Volkswagen Group,Seat,18690
+2021,10,October,Volkswagen Group,Skoda,22010
+2021,10,October,Volkswagen Group,Volkswagen,68446
+2021,11,November,Renault Group,Dacia,30558
+2021,11,November,Renault Group,Lada,131
+2021,11,November,Renault Group,Renault,49755
+2021,11,November,Stellantis,Alfa Romeo,2066
+2021,11,November,Stellantis,Chrysler,4
+2021,11,November,Stellantis,Citroen,31589
+2021,11,November,Stellantis,DS,3401
+2021,11,November,Stellantis,Dodge,9
+2021,11,November,Stellantis,Fiat,31004
+2021,11,November,Stellantis,Jeep,8076
+2021,11,November,Stellantis,Lancia,3207
+2021,11,November,Stellantis,Maserati,322
+2021,11,November,Stellantis,Opel,31690
+2021,11,November,Stellantis,Peugeot,49669
+2021,11,November,Toyota Group,Lexus,2231
+2021,11,November,Toyota Group,Toyota,41684
+2021,11,November,Volkswagen Group,Audi,35836
+2021,11,November,Volkswagen Group,MAN,82
+2021,11,November,Volkswagen Group,Others,502
+2021,11,November,Volkswagen Group,Seat,21397
+2021,11,November,Volkswagen Group,Skoda,28293
+2021,11,November,Volkswagen Group,Volkswagen,71790
+2021,12,December,Renault Group,Dacia,34350
+2021,12,December,Renault Group,Lada,167
+2021,12,December,Renault Group,Renault,63075
+2021,12,December,Stellantis,Alfa Romeo,2325
+2021,12,December,Stellantis,Chrysler,8
+2021,12,December,Stellantis,Citroen,29525
+2021,12,December,Stellantis,DS,4686
+2021,12,December,Stellantis,Dodge,54
+2021,12,December,Stellantis,Fiat,29495
+2021,12,December,Stellantis,Jeep,8789
+2021,12,December,Stellantis,Lancia,2210
+2021,12,December,Stellantis,Maserati,451
+2021,12,December,Stellantis,Opel,33053
+2021,12,December,Stellantis,Peugeot,58262
+2021,12,December,Toyota Group,Lexus,2747
+2021,12,December,Toyota Group,Toyota,41543
+2021,12,December,Volkswagen Group,Audi,42565
+2021,12,December,Volkswagen Group,MAN,93
+2021,12,December,Volkswagen Group,Others,376
+2021,12,December,Volkswagen Group,Seat,24158
+2021,12,December,Volkswagen Group,Skoda,33367
+2021,12,December,Volkswagen Group,Volkswagen,88845
+2022,1,January,Renault Group,Alpine,189
+2022,1,January,Renault Group,Dacia,34150
+2022,1,January,Renault Group,Lada,154
+2022,1,January,Renault Group,Renault,42219
+2022,1,January,Stellantis,Alfa Romeo,1648
+2022,1,January,Stellantis,Citroen,26692
+2022,1,January,Stellantis,DS,3233
+2022,1,January,Stellantis,Fiat,27524
+2022,1,January,Stellantis,Jeep,9133
+2022,1,January,Stellantis,Lancia/Chrysler,3268
+2022,1,January,Stellantis,Opel/Vauxhall,32678
+2022,1,January,Stellantis,Others,337
+2022,1,January,Stellantis,Peugeot,52160
+2022,1,January,Toyota Group,Lexus,3309
+2022,1,January,Toyota Group,Toyota,64365
+2022,1,January,Volkswagen Group,Audi,43638
+2022,1,January,Volkswagen Group,Others,547
+2022,1,January,Volkswagen Group,Porsche,7752
+2022,1,January,Volkswagen Group,Seat,23975
+2022,1,January,Volkswagen Group,Skoda,44173
+2022,1,January,Volkswagen Group,Volkswagen,85933
+2022,2,February,Renault Group,Alpine,113
+2022,2,February,Renault Group,Dacia,23524
+2022,2,February,Renault Group,Lada,142
+2022,2,February,Renault Group,Renault,38920
+2022,2,February,Stellantis,Alfa Romeo,1305
+2022,2,February,Stellantis,Citroen,29467
+2022,2,February,Stellantis,DS,3295
+2022,2,February,Stellantis,Fiat,29520
+2022,2,February,Stellantis,Jeep,8390
+2022,2,February,Stellantis,Lancia/Chrysler,3900
+2022,2,February,Stellantis,Opel/Vauxhall,30661
+2022,2,February,Stellantis,Others,269
+2022,2,February,Stellantis,Peugeot,48184
+2022,2,February,Toyota Group,Ford,34092
+2022,2,February,Toyota Group,Lexus,2130
+2022,2,February,Toyota Group,Mazda,8218
+2022,2,February,Toyota Group,Mercedes,42036
+2022,2,February,Toyota Group,Mercedes-Benz,43958
+2022,2,February,Toyota Group,Nissan,12612
+2022,2,February,Toyota Group,Smart,1922
+2022,2,February,Toyota Group,Toyota,42125
+2022,2,February,Toyota Group,Volvo,17582
+2022,2,February,Volkswagen Group,Audi,38702
+2022,2,February,Volkswagen Group,Others,362
+2022,2,February,Volkswagen Group,Porsche,4535
+2022,2,February,Volkswagen Group,Seat,24997
+2022,2,February,Volkswagen Group,Skoda,30297
+2022,2,February,Volkswagen Group,Volkswagen,72381
+2022,3,March,Renault Group,Alpine,285
+2022,3,March,Renault Group,Dacia,36331
+2022,3,March,Renault Group,Lada,211
+2022,3,March,Renault Group,Renault,48055
+2022,3,March,Stellantis,Alfa Romeo,1750
+2022,3,March,Stellantis,Citroen,34591
+2022,3,March,Stellantis,DS,4688
+2022,3,March,Stellantis,Fiat,33266
+2022,3,March,Stellantis,Jeep,9169
+2022,3,March,Stellantis,Lancia/Chrysler,3611
+2022,3,March,Stellantis,Opel/Vauxhall,31193
+2022,3,March,Stellantis,Others,286
+2022,3,March,Stellantis,Peugeot,49867
+2022,3,March,Toyota Group,Lexus,1944
+2022,3,March,Toyota Group,Toyota,51891
+2022,3,March,Volkswagen Group,Audi,47265
+2022,3,March,Volkswagen Group,Others,324
+2022,3,March,Volkswagen Group,Porsche,6164
+2022,3,March,Volkswagen Group,Seat,27822
+2022,3,March,Volkswagen Group,Skoda,37490
+2022,3,March,Volkswagen Group,Volkswagen,84854
+2022,4,April,Renault Group,Alpine,265
+2022,4,April,Renault Group,Dacia,28254
+2022,4,April,Renault Group,Lada,63
+2022,4,April,Renault Group,Renault,36196
+2022,4,April,Stellantis,Alfa Romeo,1897
+2022,4,April,Stellantis,Citroen,27093
+2022,4,April,Stellantis,DS,3739
+2022,4,April,Stellantis,Fiat,29734
+2022,4,April,Stellantis,Jeep,8094
+2022,4,April,Stellantis,Lancia/Chrysler,2762
+2022,4,April,Stellantis,Opel/Vauxhall,24043
+2022,4,April,Stellantis,Others,248
+2022,4,April,Stellantis,Peugeot,39845
+2022,4,April,Toyota Group,Lexus,1818
+2022,4,April,Toyota Group,Toyota,48917
+2022,4,April,Volkswagen Group,Audi,35388
+2022,4,April,Volkswagen Group,Others,325
+2022,4,April,Volkswagen Group,Porsche,3899
+2022,4,April,Volkswagen Group,Seat,23969
+2022,4,April,Volkswagen Group,Skoda,32517
+2022,4,April,Volkswagen Group,Volkswagen,71688
+2022,5,May,Renault Group,Alpine,319
+2022,5,May,Renault Group,Dacia,32939
+2022,5,May,Renault Group,Lada,75
+2022,5,May,Renault Group,Renault,47974
+2022,5,May,Stellantis,Alfa Romeo,2420
+2022,5,May,Stellantis,Citroen,32838
+2022,5,May,Stellantis,DS,4215
+2022,5,May,Stellantis,Fiat,40645
+2022,5,May,Stellantis,Jeep,10352
+2022,5,May,Stellantis,Lancia/Chrysler,4260
+2022,5,May,Stellantis,Opel/Vauxhall,40574
+2022,5,May,Stellantis,Others,325
+2022,5,May,Stellantis,Peugeot,55860
+2022,5,May,Toyota Group,Ford,46169
+2022,5,May,Toyota Group,Lexus,2827
+2022,5,May,Toyota Group,Mazda,8736
+2022,5,May,Toyota Group,Mercedes,52351
+2022,5,May,Toyota Group,Mercedes-Benz,54524
+2022,5,May,Toyota Group,Nissan,18916
+2022,5,May,Toyota Group,Smart,2173
+2022,5,May,Toyota Group,Toyota,65134
+2022,5,May,Toyota Group,Volvo,19124
+2022,5,May,Volkswagen Group,Audi,50704
+2022,5,May,Volkswagen Group,Others,738
+2022,5,May,Volkswagen Group,Porsche,6778
+2022,5,May,Volkswagen Group,Seat,37023
+2022,5,May,Volkswagen Group,Skoda,42337
+2022,5,May,Volkswagen Group,Volkswagen,102402
+2022,6,June,Renault Group,Alpine,266
+2022,6,June,Renault Group,Dacia,55320
+2022,6,June,Renault Group,Lada,27
+2022,6,June,Renault Group,Renault,66068
+2022,6,June,Stellantis,Alfa Romeo,2968
+2022,6,June,Stellantis,Citroen,34488
+2022,6,June,Stellantis,DS,4671
+2022,6,June,Stellantis,Fiat,36539
+2022,6,June,Stellantis,Jeep,9474
+2022,6,June,Stellantis,Lancia/Chrysler,3718
+2022,6,June,Stellantis,Opel/Vauxhall,36139
+2022,6,June,Stellantis,Others,418
+2022,6,June,Stellantis,Peugeot,62448
+2022,6,June,Toyota Group,Lexus,1718
+2022,6,June,Toyota Group,Toyota,58496
+2022,6,June,Volkswagen Group,Audi,40306
+2022,6,June,Volkswagen Group,Others,436
+2022,6,June,Volkswagen Group,Porsche,5498
+2022,6,June,Volkswagen Group,Seat,31123
+2022,6,June,Volkswagen Group,Skoda,41501
+2022,6,June,Volkswagen Group,Volkswagen,96526
+2022,8,August,Renault Group,Alpine,179
+2022,8,August,Renault Group,Dacia,36440
+2022,8,August,Renault Group,Renault,28449
+2022,8,August,Stellantis,Alfa Romeo,2289
+2022,8,August,Stellantis,Citroen,27889
+2022,8,August,Stellantis,DS,2877
+2022,8,August,Stellantis,Fiat,24997
+2022,8,August,Stellantis,Jeep,4156
+2022,8,August,Stellantis,Lancia/Chrysler,2839
+2022,8,August,Stellantis,Opel/Vauxhall,31000
+2022,8,August,Stellantis,Others,512
+2022,8,August,Stellantis,Peugeot,40164
+2022,8,August,Toyota Group,Hyundai,34185
+2022,8,August,Toyota Group,Kia,72591
+2022,8,August,Toyota Group,Lexus,55858
+2022,8,August,Toyota Group,Toyota,38406
+2022,8,August,Volkswagen Group,Audi,41475
+2022,8,August,Volkswagen Group,Cupra,9564
+2022,8,August,Volkswagen Group,Others,621
+2022,8,August,Volkswagen Group,Porsche,4339
+2022,8,August,Volkswagen Group,Seat,11240
+2022,8,August,Volkswagen Group,Skoda,40893
+2022,8,August,Volkswagen Group,Volkswagen,91416
+2022,9,September,Renault Group,Alpine,179
+2022,9,September,Renault Group,Dacia,37009
+2022,9,September,Renault Group,Renault,47944
+2022,9,September,Stellantis,Alfa Romeo,3008
+2022,9,September,Stellantis,Citroen,29901
+2022,9,September,Stellantis,DS,3719
+2022,9,September,Stellantis,Fiat,29954
+2022,9,September,Stellantis,Jeep,4903
+2022,9,September,Stellantis,Lancia/Chrysler,3711
+2022,9,September,Stellantis,Opel/Vauxhall,26126
+2022,9,September,Stellantis,Others,724
+2022,9,September,Stellantis,Peugeot,46715
+2022,9,September,Toyota Group,Lexus,2842
+2022,9,September,Toyota Group,Toyota,51235
+2022,9,September,Volkswagen Group,Audi,38682
+2022,9,September,Volkswagen Group,Others,226
+2022,9,September,Volkswagen Group,Porsche,4454
+2022,9,September,Volkswagen Group,Seat,22243
+2022,9,September,Volkswagen Group,Skoda,45788
+2022,9,September,Volkswagen Group,Volkswagen,84626
+2022,10,October,Renault Group,Alpine,213
+2022,10,October,Renault Group,Dacia,32338
+2022,10,October,Renault Group,Renault,44365
+2022,10,October,Stellantis,Alfa Romeo,3206
+2022,10,October,Stellantis,Citroen,27654
+2022,10,October,Stellantis,DS,3747
+2022,10,October,Stellantis,Fiat,27753
+2022,10,October,Stellantis,Jeep,7357
+2022,10,October,Stellantis,Lancia/Chrysler,3670
+2022,10,October,Stellantis,Opel/Vauxhall,24016
+2022,10,October,Stellantis,Others,699
+2022,10,October,Stellantis,Peugeot,43398
+2022,10,October,Toyota Group,Lexus,2204
+2022,10,October,Toyota Group,Toyota,54100
+2022,10,October,Volkswagen Group,Audi,40087
+2022,10,October,Volkswagen Group,Others,259
+2022,10,October,Volkswagen Group,Porsche,4429
+2022,10,October,Volkswagen Group,Seat,21919
+2022,10,October,Volkswagen Group,Skoda,38344
+2022,10,October,Volkswagen Group,Volkswagen,85217
+2022,11,November,Renault Group,Alpine,296
+2022,11,November,Renault Group,Dacia,43793
+2022,11,November,Renault Group,Renault,51960
+2022,11,November,Stellantis,Alfa Romeo,3562
+2022,11,November,Stellantis,Citroen,28809
+2022,11,November,Stellantis,DS,4531
+2022,11,November,Stellantis,Fiat,32746
+2022,11,November,Stellantis,Jeep,8734
+2022,11,November,Stellantis,Lancia/Chrysler,3631
+2022,11,November,Stellantis,Opel/Vauxhall,32500
+2022,11,November,Stellantis,Others,896
+2022,11,November,Stellantis,Peugeot,49771
+2022,11,November,Toyota Group,Ford,45856
+2022,11,November,Toyota Group,Lexus,3901
+2022,11,November,Toyota Group,Mazda,12205
+2022,11,November,Toyota Group,Mercedes,55280
+2022,11,November,Toyota Group,Mercedes-Benz,57646
+2022,11,November,Toyota Group,Nissan,22237
+2022,11,November,Toyota Group,Smart,2366
+2022,11,November,Toyota Group,Suzuki,12423
+2022,11,November,Toyota Group,Tesla,32007
+2022,11,November,Toyota Group,Toyota,69583
+2022,11,November,Toyota Group,Volvo Cars,25693
+2022,11,November,Volkswagen Group,Audi,60174
+2022,11,November,Volkswagen Group,Cupra,11974
+2022,11,November,Volkswagen Group,Others,615
+2022,11,November,Volkswagen Group,Porsche,8653
+2022,11,November,Volkswagen Group,Seat,15168
+2022,11,November,Volkswagen Group,Skoda,45101
+2022,11,November,Volkswagen Group,Volkswagen,112853
+2022,12,December,Renault Group,Alpine,467
+2022,12,December,Renault Group,Dacia,48313
+2022,12,December,Renault Group,Renault,67219
+2022,12,December,Stellantis,Alfa Romeo,3942
+2022,12,December,Stellantis,Citroen,25255
+2022,12,December,Stellantis,DS,5042
+2022,12,December,Stellantis,Fiat,31309
+2022,12,December,Stellantis,Jeep,11841
+2022,12,December,Stellantis,Lancia/Chrysler,2595
+2022,12,December,Stellantis,Opel/Vauxhall,33334
+2022,12,December,Stellantis,Others,898
+2022,12,December,Stellantis,Peugeot,45209
+2022,12,December,Toyota Group,Ford,41822
+2022,12,December,Toyota Group,Lexus,4994
+2022,12,December,Toyota Group,Mazda,14460
+2022,12,December,Toyota Group,Mercedes,67075
+2022,12,December,Toyota Group,Mercedes-Benz,69854
+2022,12,December,Toyota Group,Nissan,23833
+2022,12,December,Toyota Group,Smart,2779
+2022,12,December,Toyota Group,Toyota,63989
+2022,12,December,Toyota Group,Volvo,34135
+2022,12,December,Volkswagen Group,Audi,61162
+2022,12,December,Volkswagen Group,Others,311
+2022,12,December,Volkswagen Group,Porsche,11464
+2022,12,December,Volkswagen Group,Seat,31880
+2022,12,December,Volkswagen Group,Skoda,47702
+2022,12,December,Volkswagen Group,Volkswagen,121618
+2023,1,January,Renault Group,Alpine,177
+2023,1,January,Renault Group,Dacia,47998
+2023,1,January,Renault Group,Renault,46714
+2023,1,January,Stellantis,Alfa Romeo,3430
+2023,1,January,Stellantis,Citroen,27152
+2023,1,January,Stellantis,DS,3954
+2023,1,January,Stellantis,Fiat,31828
+2023,1,January,Stellantis,Jeep,9927
+2023,1,January,Stellantis,Lancia/Chrysler,3586
+2023,1,January,Stellantis,Opel/Vauxhall,29048
+2023,1,January,Stellantis,Others,839
+2023,1,January,Stellantis,Peugeot,46789
+2023,1,January,Toyota Group,Hyundai,46094
+2023,1,January,Toyota Group,Kia,85444
+2023,1,January,Toyota Group,Lexus,73299
+2023,1,January,Toyota Group,Toyota,39350
+2023,1,January,Volkswagen Group,Audi,48241
+2023,1,January,Volkswagen Group,Cupra,8249
+2023,1,January,Volkswagen Group,Others,491
+2023,1,January,Volkswagen Group,Porsche,8597
+2023,1,January,Volkswagen Group,Seat,20968
+2023,1,January,Volkswagen Group,Skoda,51241
+2023,1,January,Volkswagen Group,Volkswagen,100213
+2023,3,March,Renault Group,Alpine,195
+2023,3,March,Renault Group,Dacia,54199
+2023,3,March,Renault Group,Renault,65927
+2023,3,March,Stellantis,Alfa Romeo,5642
+2023,3,March,Stellantis,Citroen,47024
+2023,3,March,Stellantis,DS,5696
+2023,3,March,Stellantis,Fiat,40952
+2023,3,March,Stellantis,Jeep,12455
+2023,3,March,Stellantis,Lancia/Chrysler,5072
+2023,3,March,Stellantis,Opel/Vauxhall,53887
+2023,3,March,Stellantis,Others,1023
+2023,3,March,Stellantis,Peugeot,79371
+2023,3,March,Toyota Group,Hyundai,63053
+2023,3,March,Toyota Group,Kia,119394
+2023,3,March,Toyota Group,Lexus,94264
+2023,3,March,Toyota Group,Toyota,56341
+2023,3,March,Volkswagen Group,Audi,81675
+2023,3,March,Volkswagen Group,Cupra,19971
+2023,3,March,Volkswagen Group,Others,713
+2023,3,March,Volkswagen Group,Porsche,11315
+2023,3,March,Volkswagen Group,Seat,28650
+2023,3,March,Volkswagen Group,Skoda,66529
+2023,3,March,Volkswagen Group,Volkswagen,137461
+2023,4,April,Stellantis,Alfa Romeo,4548
+2023,4,April,Stellantis,Citroen,27686
+2023,4,April,Stellantis,DS,4095
+2023,4,April,Stellantis,Fiat,30167
+2023,4,April,Stellantis,Jeep,8688
+2023,4,April,Stellantis,Lancia/Chrysler,3723
+2023,4,April,Stellantis,Opel/Vauxhall,37373
+2023,4,April,Stellantis,Others,638
+2023,4,April,Stellantis,Peugeot,52104
+2023,4,April,Toyota Group,Alpine,226
+2023,4,April,Toyota Group,Dacia,44590
+2023,4,April,Toyota Group,Hyundai,50062
+2023,4,April,Toyota Group,Kia,89804
+2023,4,April,Toyota Group,Lexus,59710
+2023,4,April,Toyota Group,Renault,53164
+2023,4,April,Toyota Group,Toyota,39742
+2023,4,April,Volkswagen Group,Audi,59190
+2023,4,April,Volkswagen Group,Cupra,15345
+2023,4,April,Volkswagen Group,Others,545
+2023,4,April,Volkswagen Group,Porsche,8245
+2023,4,April,Volkswagen Group,Seat,20321
+2023,4,April,Volkswagen Group,Skoda,53438
+2023,4,April,Volkswagen Group,Volkswagen,106787
+2023,5,May,Renault Group,Alpine,454
+2023,5,May,Renault Group,Dacia,48022
+2023,5,May,Renault Group,Renault,62073
+2023,5,May,Stellantis,Alfa Romeo,4729
+2023,5,May,Stellantis,Citroen,30325
+2023,5,May,Stellantis,DS,5000
+2023,5,May,Stellantis,Fiat,31479
+2023,5,May,Stellantis,Jeep,11150
+2023,5,May,Stellantis,Lancia/Chrysler,4706
+2023,5,May,Stellantis,Opel/Vauxhall,40841
+2023,5,May,Stellantis,Others,814
+2023,5,May,Stellantis,Peugeot,61644
+2023,5,May,Toyota Group,Hyundai,51513
+2023,5,May,Toyota Group,Kia,97081
+2023,5,May,Toyota Group,Lexus,74604
+2023,5,May,Toyota Group,Toyota,45568
+2023,5,May,Volkswagen Group,Audi,65673
+2023,5,May,Volkswagen Group,Cupra,17913
+2023,5,May,Volkswagen Group,Others,887
+2023,5,May,Volkswagen Group,Porsche,8582
+2023,5,May,Volkswagen Group,Seat,20593
+2023,5,May,Volkswagen Group,Skoda,57634
+2023,5,May,Volkswagen Group,Volkswagen,118169
+2023,6,June,Renault Group,Alpine,582
+2023,6,June,Renault Group,Dacia,55663
+2023,6,June,Renault Group,Renault,76865
+2023,6,June,Stellantis,Alfa Romeo,5496
+2023,6,June,Stellantis,Citroen,35334
+2023,6,June,Stellantis,DS,5301
+2023,6,June,Stellantis,Fiat,35034
+2023,6,June,Stellantis,Jeep,11975
+2023,6,June,Stellantis,Lancia/Chrysler,4351
+2023,6,June,Stellantis,Opel/Vauxhall,47555
+2023,6,June,Stellantis,Others,964
+2023,6,June,Stellantis,Peugeot,64485
+2023,6,June,Toyota Group,Hyundai,54611
+2023,6,June,Toyota Group,Kia,106605
+2023,6,June,Toyota Group,Lexus,81607
+2023,6,June,Toyota Group,Toyota,51994
+2023,6,June,Volkswagen Group,Audi,72317
+2023,6,June,Volkswagen Group,Cupra,19590
+2023,6,June,Volkswagen Group,Others,892
+2023,6,June,Volkswagen Group,Porsche,9320
+2023,6,June,Volkswagen Group,Seat,24090
+2023,6,June,Volkswagen Group,Skoda,61479
+2023,6,June,Volkswagen Group,Volkswagen,137923
+2023,7,July,Renault Group,Alpine,413
+2023,7,July,Renault Group,Dacia,40698
+2023,7,July,Renault Group,Renault,49160
+2023,7,July,Stellantis,Alfa Romeo,3768
+2023,7,July,Stellantis,Citroen,23938
+2023,7,July,Stellantis,DS,3593
+2023,7,July,Stellantis,Fiat,30369
+2023,7,July,Stellantis,Jeep,10128
+2023,7,July,Stellantis,Lancia/Chrysler,3364
+2023,7,July,Stellantis,Opel/Vauxhall,26579
+2023,7,July,Stellantis,Others,639
+2023,7,July,Stellantis,Peugeot,42089
+2023,7,July,Toyota Group,Lexus,3353
+2023,7,July,Toyota Group,Toyota,54525
+2023,7,July,Volkswagen Group,Audi,47527
+2023,7,July,Volkswagen Group,Cupra,15885
+2023,7,July,Volkswagen Group,Others,547
+2023,7,July,Volkswagen Group,Porsche,5645
+2023,7,July,Volkswagen Group,Seat,19242
+2023,7,July,Volkswagen Group,Skoda,48684
+2023,7,July,Volkswagen Group,Volkswagen,96932
+2023,8,August,Renault Group,Alpine,209
+2023,8,August,Renault Group,Dacia,38215
+2023,8,August,Renault Group,Renault,41043
+2023,8,August,Stellantis,Alfa Romeo,2546
+2023,8,August,Stellantis,Citroen,26564
+2023,8,August,Stellantis,DS,3380
+2023,8,August,Stellantis,Fiat,26050
+2023,8,August,Stellantis,Jeep,8089
+2023,8,August,Stellantis,Lancia/Chrysler,2495
+2023,8,August,Stellantis,Opel/Vauxhall,33782
+2023,8,August,Stellantis,Others,451
+2023,8,August,Stellantis,Peugeot,42035
+2023,8,August,Toyota Group,Hyundai,37104
+2023,8,August,Toyota Group,Kia,76631
+2023,8,August,Toyota Group,Lexus,64484
+2023,8,August,Toyota Group,Toyota,39527
+2023,8,August,Volkswagen Group,Audi,51264
+2023,8,August,Volkswagen Group,Cupra,16880
+2023,8,August,Volkswagen Group,Others,511
+2023,8,August,Volkswagen Group,Porsche,5919
+2023,8,August,Volkswagen Group,Seat,16163
+2023,8,August,Volkswagen Group,Skoda,50414
+2023,8,August,Volkswagen Group,Volkswagen,99333
+2023,9,September,Renault Group,Alpine,207
+2023,9,September,Renault Group,Dacia,38724
+2023,9,September,Renault Group,Renault,50546
+2023,9,September,Stellantis,Alfa Romeo,3674
+2023,9,September,Stellantis,Citroen,32786
+2023,9,September,Stellantis,DS,3757
+2023,9,September,Stellantis,Fiat,31427
+2023,9,September,Stellantis,Jeep,11098
+2023,9,September,Stellantis,Lancia/Chrysler,3801
+2023,9,September,Stellantis,Opel/Vauxhall,31083
+2023,9,September,Stellantis,Others,597
+2023,9,September,Stellantis,Peugeot,47097
+2023,9,September,Toyota Group,Lexus,3710
+2023,9,September,Toyota Group,Toyota,56144
+2023,9,September,Volkswagen Group,Audi,43701
+2023,9,September,Volkswagen Group,Cupra,14439
+2023,9,September,Volkswagen Group,Others,381
+2023,9,September,Volkswagen Group,Porsche,5022
+2023,9,September,Volkswagen Group,Seat,14542
+2023,9,September,Volkswagen Group,Skoda,47513
+2023,9,September,Volkswagen Group,Volkswagen,90302
+2023,10,October,Renault Group,Alpine,302
+2023,10,October,Renault Group,Dacia,46222
+2023,10,October,Renault Group,Renault,56629
+2023,10,October,Stellantis,Alfa Romeo,4232
+2023,10,October,Stellantis,Citroen,33193
+2023,10,October,Stellantis,DS,3310
+2023,10,October,Stellantis,Fiat,34105
+2023,10,October,Stellantis,Jeep,12075
+2023,10,October,Stellantis,Lancia/Chrysler,4228
+2023,10,October,Stellantis,Opel/Vauxhall,36516
+2023,10,October,Stellantis,Others,651
+2023,10,October,Stellantis,Peugeot,52017
+2023,10,October,Toyota Group,Hyundai,46328
+2023,10,October,Toyota Group,Kia,89551
+2023,10,October,Toyota Group,Lexus,74964
+2023,10,October,Toyota Group,Toyota,43223
+2023,10,October,Volkswagen Group,Audi,62754
+2023,10,October,Volkswagen Group,Cupra,17613
+2023,10,October,Volkswagen Group,Others,566
+2023,10,October,Volkswagen Group,Porsche,9624
+2023,10,October,Volkswagen Group,Seat,15989
+2023,10,October,Volkswagen Group,Skoda,53850
+2023,10,October,Volkswagen Group,Volkswagen,97132
+2023,11,November,Renault Group,Alpine,359
+2023,11,November,Renault Group,Dacia,47114
+2023,11,November,Renault Group,Renault,54839
+2023,11,November,Stellantis,Alfa Romeo,4410
+2023,11,November,Stellantis,Citroen,27903
+2023,11,November,Stellantis,DS,2862
+2023,11,November,Stellantis,Fiat,28499
+2023,11,November,Stellantis,Jeep,10753
+2023,11,November,Stellantis,Lancia/Chrysler,4003
+2023,11,November,Stellantis,Opel/Vauxhall,35658
+2023,11,November,Stellantis,Others,597
+2023,11,November,Stellantis,Peugeot,45814
+2023,11,November,Toyota Group,Ford,38946
+2023,11,November,Toyota Group,Lexus,4582
+2023,11,November,Toyota Group,Mazda,14795
+2023,11,November,Toyota Group,Mercedes,59642
+2023,11,November,Toyota Group,Mercedes-Benz,62255
+2023,11,November,Toyota Group,Nissan,24854
+2023,11,November,Toyota Group,Smart,2613
+2023,11,November,Toyota Group,Suzuki,15782
+2023,11,November,Toyota Group,Tesla,36149
+2023,11,November,Toyota Group,Toyota,63781
+2023,11,November,Toyota Group,Volvo Cars,26428
+2023,11,November,Volkswagen Group,Audi,61639
+2023,11,November,Volkswagen Group,Cupra,16533
+2023,11,November,Volkswagen Group,Others,581
+2023,11,November,Volkswagen Group,Porsche,7489
+2023,11,November,Volkswagen Group,Seat,18856
+2023,11,November,Volkswagen Group,Skoda,61144
+2023,11,November,Volkswagen Group,Volkswagen,111668
+2024,2,February,Renault Group,Alpine,279
+2024,2,February,Renault Group,Dacia,44709
+2024,2,February,Renault Group,Renault,46734
+2024,2,February,Stellantis,Alfa Romeo,3442
+2024,2,February,Stellantis,Citroen,34267
+2024,2,February,Stellantis,DS,3428
+2024,2,February,Stellantis,Fiat,32584
+2024,2,February,Stellantis,Jeep,10715
+2024,2,February,Stellantis,Lancia/Chrysler,4157
+2024,2,February,Stellantis,Opel/Vauxhall,29153
+2024,2,February,Stellantis,Others,373
+2024,2,February,Stellantis,Peugeot,54149
+2024,2,February,Toyota Group,Lexus,4124
+2024,2,February,Toyota Group,Toyota,64709
+2024,2,February,Volkswagen Group,Audi,39990
+2024,2,February,Volkswagen Group,Cupra,15350
+2024,2,February,Volkswagen Group,Others,444
+2024,2,February,Volkswagen Group,Porsche,8201
+2024,2,February,Volkswagen Group,Seat,25814
+2024,2,February,Volkswagen Group,Skoda,52639
+2024,2,February,Volkswagen Group,Volkswagen,86449
+2024,5,May,Renault Group,Alpine,328
+2024,5,May,Renault Group,Dacia,40127
+2024,5,May,Renault Group,Renault,57745
+2024,5,May,Stellantis,Alfa Romeo,3750
+2024,5,May,Stellantis,Citroen,30113
+2024,5,May,Stellantis,DS,2798
+2024,5,May,Stellantis,Fiat,26884
+2024,5,May,Stellantis,Jeep,10997
+2024,5,May,Stellantis,Lancia/Chrysler,3847
+2024,5,May,Stellantis,Opel/Vauxhall,31094
+2024,5,May,Stellantis,Others,500
+2024,5,May,Stellantis,Peugeot,48406
+2024,5,May,Toyota Group,Lexus,4556
+2024,5,May,Toyota Group,Toyota,65186
+2024,5,May,Volkswagen Group,Audi,46435
+2024,5,May,Volkswagen Group,Cupra,17637
+2024,5,May,Volkswagen Group,Others,573
+2024,5,May,Volkswagen Group,Porsche,6614
+2024,5,May,Volkswagen Group,Seat,21130
+2024,5,May,Volkswagen Group,Skoda,53084
+2024,5,May,Volkswagen Group,Volkswagen,103190
+2024,6,June,Renault Group,Alpine,801
+2024,6,June,Renault Group,Dacia,56686
+2024,6,June,Renault Group,Renault,74388
+2024,6,June,Stellantis,Alfa Romeo,3649
+2024,6,June,Stellantis,Citroen,40609
+2024,6,June,Stellantis,DS,3679
+2024,6,June,Stellantis,Fiat,36534
+2024,6,June,Stellantis,Jeep,11476
+2024,6,June,Stellantis,Lancia/Chrysler,4164
+2024,6,June,Stellantis,Opel/Vauxhall,36391
+2024,6,June,Stellantis,Others,450
+2024,6,June,Stellantis,Peugeot,51978
+2024,6,June,Toyota Group,Lexus,5378
+2024,6,June,Toyota Group,Toyota,70718
+2024,6,June,Volkswagen Group,Audi,50684
+2024,6,June,Volkswagen Group,Cupra,20943
+2024,6,June,Volkswagen Group,Others,742
+2024,6,June,Volkswagen Group,Porsche,6253
+2024,6,June,Volkswagen Group,Seat,22980
+2024,6,June,Volkswagen Group,Skoda,60117
+2024,6,June,Volkswagen Group,Volkswagen,124507
+2024,7,July,Renault Group,Alpine,160
+2024,7,July,Renault Group,Dacia,44809
+2024,7,July,Renault Group,Renault,43738
+2024,7,July,Stellantis,Alfa Romeo,2944
+2024,7,July,Stellantis,Citroen,24091
+2024,7,July,Stellantis,DS,2699
+2024,7,July,Stellantis,Fiat,22609
+2024,7,July,Stellantis,Jeep,9499
+2024,7,July,Stellantis,Lancia/Chrysler,2840
+2024,7,July,Stellantis,Opel/Vauxhall,28026
+2024,7,July,Stellantis,Others,332
+2024,7,July,Stellantis,Peugeot,43972
+2024,7,July,Toyota Group,Lexus,5092
+2024,7,July,Toyota Group,Toyota,65455
+2024,7,July,Volkswagen Group,Audi,47706
+2024,7,July,Volkswagen Group,Cupra,13595
+2024,7,July,Volkswagen Group,Others,604
+2024,7,July,Volkswagen Group,Porsche,4813
+2024,7,July,Volkswagen Group,Seat,19260
+2024,7,July,Volkswagen Group,Skoda,52391
+2024,7,July,Volkswagen Group,Volkswagen,91018
+2024,8,August,Renault Group,Alpine,124
+2024,8,August,Renault Group,Dacia,32041
+2024,8,August,Renault Group,Renault,32227
+2024,8,August,Stellantis,Alfa Romeo,1710
+2024,8,August,Stellantis,Citroen,13793
+2024,8,August,Stellantis,DS,1850
+2024,8,August,Stellantis,Fiat,12604
+2024,8,August,Stellantis,Jeep,6667
+2024,8,August,Stellantis,Lancia/Chrysler,1376
+2024,8,August,Stellantis,Opel/Vauxhall,22344
+2024,8,August,Stellantis,Others,271
+2024,8,August,Stellantis,Peugeot,32052
+2024,8,August,Toyota Group,Lexus,4135
+2024,8,August,Toyota Group,Toyota,50404
+2024,8,August,Volkswagen Group,Audi,34241
+2024,8,August,Volkswagen Group,Cupra,10730
+2024,8,August,Volkswagen Group,Others,350
+2024,8,August,Volkswagen Group,Porsche,3865
+2024,8,August,Volkswagen Group,Seat,13590
+2024,8,August,Volkswagen Group,Skoda,44424
+2024,8,August,Volkswagen Group,Volkswagen,71841
+2024,9,September,Renault Group,Alpine,167
+2024,9,September,Renault Group,Dacia,35874
+2024,9,September,Renault Group,Renault,52108
+2024,9,September,Stellantis,Alfa Romeo,3003
+2024,9,September,Stellantis,Citroen,17841
+2024,9,September,Stellantis,DS,2604
+2024,9,September,Stellantis,Fiat,17222
+2024,9,September,Stellantis,Jeep,9337
+2024,9,September,Stellantis,Lancia/Chrysler,1080
+2024,9,September,Stellantis,Opel/Vauxhall,24230
+2024,9,September,Stellantis,Others,343
+2024,9,September,Stellantis,Peugeot,44922
+2024,9,September,Toyota Group,Lexus,5042
+2024,9,September,Toyota Group,Toyota,57837
+2024,9,September,Volkswagen Group,Audi,39502
+2024,9,September,Volkswagen Group,Cupra,12305
+2024,9,September,Volkswagen Group,Others,326
+2024,9,September,Volkswagen Group,Porsche,5308
+2024,9,September,Volkswagen Group,Seat,14590
+2024,9,September,Volkswagen Group,Skoda,55749
+2024,9,September,Volkswagen Group,Volkswagen,88797
+2024,10,October,Stellantis,Alfa Romeo,3479
+2024,10,October,Stellantis,Citroen,22886
+2024,10,October,Stellantis,DS,2897
+2024,10,October,Stellantis,Fiat,18682
+2024,10,October,Stellantis,Jeep,11525
+2024,10,October,Stellantis,Lancia/Chrysler,878
+2024,10,October,Stellantis,Opel/Vauxhall,31514
+2024,10,October,Stellantis,Others,480
+2024,10,October,Stellantis,Peugeot,58005
+2024,10,October,Toyota Group,Alpine,289
+2024,10,October,Toyota Group,Dacia,45646
+2024,10,October,Toyota Group,Hyundai,41246
+2024,10,October,Toyota Group,Kia,82840
+2024,10,October,Toyota Group,Lexus,85587
+2024,10,October,Toyota Group,Renault,56802
+2024,10,October,Toyota Group,Toyota,41594
+2024,10,October,Volkswagen Group,Audi,54095
+2024,10,October,Volkswagen Group,Cupra,19666
+2024,10,October,Volkswagen Group,Others,480
+2024,10,October,Volkswagen Group,Porsche,10287
+2024,10,October,Volkswagen Group,Seat,23921
+2024,10,October,Volkswagen Group,Skoda,69791
+2024,10,October,Volkswagen Group,Volkswagen,115087
+2024,11,November,Renault Group,Alpine,252
+2024,11,November,Renault Group,Dacia,45362
+2024,11,November,Renault Group,Renault,55733
+2024,11,November,Stellantis,Alfa Romeo,4090
+2024,11,November,Stellantis,Citroen,22549
+2024,11,November,Stellantis,DS,2723
+2024,11,November,Stellantis,Fiat,15845
+2024,11,November,Stellantis,Jeep,9307
+2024,11,November,Stellantis,Lancia/Chrysler,896
+2024,11,November,Stellantis,Opel/Vauxhall,23332
+2024,11,November,Stellantis,Others,287
+2024,11,November,Stellantis,Peugeot,45159
+2024,11,November,Toyota Group,Lexus,4954
+2024,11,November,Toyota Group,Toyota,68354
+2024,11,November,Volkswagen Group,Audi,42355
+2024,11,November,Volkswagen Group,Cupra,17149
+2024,11,November,Volkswagen Group,Others,421
+2024,11,November,Volkswagen Group,Porsche,6496
+2024,11,November,Volkswagen Group,Seat,15062
+2024,11,November,Volkswagen Group,Skoda,58990
+2024,11,November,Volkswagen Group,Volkswagen,101721
+2024,12,December,Renault Group,Alpine,608
+2024,12,December,Renault Group,Dacia,56937
+2024,12,December,Renault Group,Renault,72552
+2024,12,December,Stellantis,Alfa Romeo,4088
+2024,12,December,Stellantis,Citroen,23420
+2024,12,December,Stellantis,DS,2737
+2024,12,December,Stellantis,Fiat,13615
+2024,12,December,Stellantis,Jeep,8969
+2024,12,December,Stellantis,Lancia/Chrysler,724
+2024,12,December,Stellantis,Opel/Vauxhall,26660
+2024,12,December,Stellantis,Others,514
+2024,12,December,Stellantis,Peugeot,45364
+2024,12,December,Toyota Group,Lexus,7936
+2024,12,December,Toyota Group,Toyota,80859
+2024,12,December,Volkswagen Group,Audi,50023
+2024,12,December,Volkswagen Group,Cupra,20803
+2024,12,December,Volkswagen Group,Others,468
+2024,12,December,Volkswagen Group,Porsche,9684
+2024,12,December,Volkswagen Group,Seat,27976
+2024,12,December,Volkswagen Group,Skoda,65356
+2024,12,December,Volkswagen Group,Volkswagen,112455
+2025,1,January,Renault Group,Alpine,441
+2025,1,January,Renault Group,Dacia,46150
+2025,1,January,Renault Group,Renault,43771
+2025,1,January,Stellantis,Alfa Romeo,4656
+2025,1,January,Stellantis,Citroen,25708
+2025,1,January,Stellantis,DS,2065
+2025,1,January,Stellantis,Fiat,22079
+2025,1,January,Stellantis,Jeep,9935
+2025,1,January,Stellantis,Lancia/Chrysler,1052
+2025,1,January,Stellantis,Opel/Vauxhall,21013
+2025,1,January,Stellantis,Others,354
+2025,1,January,Stellantis,Peugeot,46644
+2025,1,January,Toyota Group,Lexus,6232
+2025,1,January,Toyota Group,Toyota,65795
+2025,1,January,Volkswagen Group,Audi,41319
+2025,1,January,Volkswagen Group,Cupra,18199
+2025,1,January,Volkswagen Group,Others,550
+2025,1,January,Volkswagen Group,Porsche,6363
+2025,1,January,Volkswagen Group,Seat,14943
+2025,1,January,Volkswagen Group,Skoda,52549
+2025,1,January,Volkswagen Group,Volkswagen,95975
+2025,2,February,Renault Group,Alpine,746
+2025,2,February,Renault Group,Dacia,47558
+2025,2,February,Renault Group,Renault,58830
+2025,2,February,Stellantis,Alfa Romeo,4994
+2025,2,February,Stellantis,Citroen,31035
+2025,2,February,Stellantis,DS,2868
+2025,2,February,Stellantis,Fiat,22980
+2025,2,February,Stellantis,Jeep,11384
+2025,2,February,Stellantis,Lancia/Chrysler,1155
+2025,2,February,Stellantis,Opel/Vauxhall,25173
+2025,2,February,Stellantis,Others,365
+2025,2,February,Stellantis,Peugeot,56016
+2025,2,February,Toyota Group,Lexus,5775
+2025,2,February,Toyota Group,Toyota,65330
+2025,2,February,Volkswagen Group,Audi,46593
+2025,2,February,Volkswagen Group,Cupra,20397
+2025,2,February,Volkswagen Group,Others,613
+2025,2,February,Volkswagen Group,Porsche,6267
+2025,2,February,Volkswagen Group,Seat,16998
+2025,2,February,Volkswagen Group,Skoda,55324
+2025,2,February,Volkswagen Group,Volkswagen,103681
+2025,3,March,Renault Group,Alpine,784
+2025,3,March,Renault Group,Dacia,56841
+2025,3,March,Renault Group,Renault,82020
+2025,3,March,Stellantis,Alfa Romeo,7306
+2025,3,March,Stellantis,Citroen,34424
+2025,3,March,Stellantis,DS,3110
+2025,3,March,Stellantis,Fiat,31128
+2025,3,March,Stellantis,Jeep,15493
+2025,3,March,Stellantis,Lancia/Chrysler,1319
+2025,3,March,Stellantis,Opel/Vauxhall,44145
+2025,3,March,Stellantis,Others,462
+2025,3,March,Stellantis,Peugeot,77803
+2025,3,March,Toyota Group,Hyundai,60586
+2025,3,March,Toyota Group,Kia,110714
+2025,3,March,Toyota Group,Lexus,98484
+2025,3,March,Toyota Group,Toyota,50128
+2025,3,March,Volkswagen Group,Audi,66062
+2025,3,March,Volkswagen Group,Cupra,32037
+2025,3,March,Volkswagen Group,Others,1010
+2025,3,March,Volkswagen Group,Porsche,11059
+2025,3,March,Volkswagen Group,Seat,23796
+2025,3,March,Volkswagen Group,Skoda,77287
+2025,3,March,Volkswagen Group,Volkswagen,146958
+2025,4,April,Stellantis,Alfa Romeo,5971
+2025,4,April,Stellantis,Citroen,30952
+2025,4,April,Stellantis,DS,2716
+2025,4,April,Stellantis,Fiat,24346
+2025,4,April,Stellantis,Jeep,11974
+2025,4,April,Stellantis,Lancia/Chrysler,1337
+2025,4,April,Stellantis,Opel/Vauxhall,31860
+2025,4,April,Stellantis,Others,454
+2025,4,April,Stellantis,Peugeot,56216
+2025,4,April,Toyota Group,Alpine,959
+2025,4,April,Toyota Group,Dacia,46871
+2025,4,April,Toyota Group,Hyundai,44663
+2025,4,April,Toyota Group,Kia,89890
+2025,4,April,Toyota Group,Lexus,77498
+2025,4,April,Toyota Group,Renault,62683
+2025,4,April,Toyota Group,Toyota,45227
+2025,4,April,Volkswagen Group,Audi,53429
+2025,4,April,Volkswagen Group,Cupra,25928
+2025,4,April,Volkswagen Group,Others,742
+2025,4,April,Volkswagen Group,Porsche,8218
+2025,4,April,Volkswagen Group,Seat,17488
+2025,4,April,Volkswagen Group,Skoda,69110
+2025,4,April,Volkswagen Group,Volkswagen,121954
+2025,5,May,Renault Group,Alpine,700
+2025,5,May,Renault Group,Dacia,49415
+2025,5,May,Renault Group,Renault,61280
+2025,5,May,Stellantis,Alfa Romeo,4925
+2025,5,May,Stellantis,Citroen,32161
+2025,5,May,Stellantis,DS,2744
+2025,5,May,Stellantis,Fiat,24655
+2025,5,May,Stellantis,Jeep,11615
+2025,5,May,Stellantis,Lancia/Chrysler,763
+2025,5,May,Stellantis,Opel/Vauxhall,34122
+2025,5,May,Stellantis,Others,364
+2025,5,May,Stellantis,Peugeot,57490
+2025,5,May,Toyota Group,Hyundai,42965
+2025,5,May,Toyota Group,Kia,88491
+2025,5,May,Toyota Group,Lexus,79578
+2025,5,May,Toyota Group,Toyota,45526
+2025,5,May,Volkswagen Group,Audi,55651
+2025,5,May,Volkswagen Group,Cupra,26438
+2025,5,May,Volkswagen Group,Others,872
+2025,5,May,Volkswagen Group,Porsche,8067
+2025,5,May,Volkswagen Group,Seat,18982
+2025,5,May,Volkswagen Group,Skoda,72602
+2025,5,May,Volkswagen Group,Volkswagen,127318
+2025,6,June,Renault Group,Alpine,1213
+2025,6,June,Renault Group,Dacia,59374
+2025,6,June,Renault Group,Renault,81528
+2025,6,June,Stellantis,Alfa Romeo,5103
+2025,6,June,Stellantis,Citroen,34471
+2025,6,June,Stellantis,DS,3476
+2025,6,June,Stellantis,Fiat,23736
+2025,6,June,Stellantis,Jeep,10772
+2025,6,June,Stellantis,Lancia/Chrysler,875
+2025,6,June,Stellantis,Opel/Vauxhall,41297
+2025,6,June,Stellantis,Others,513
+2025,6,June,Stellantis,Peugeot,60664
+2025,6,June,Toyota Group,Ford,39080
+2025,6,June,Toyota Group,Lexus,7007
+2025,6,June,Toyota Group,Mazda,15805
+2025,6,June,Toyota Group,Mercedes,63960
+2025,6,June,Toyota Group,Mercedes-Benz,65170
+2025,6,June,Toyota Group,Nissan,26119
+2025,6,June,Toyota Group,SAIC Motor,26359
+2025,6,June,Toyota Group,Smart,1210
+2025,6,June,Toyota Group,Suzuki,15475
+2025,6,June,Toyota Group,Tesla,34781
+2025,6,June,Toyota Group,Toyota,74110
+2025,6,June,Toyota Group,Volvo Cars,30796
+2025,6,June,Volkswagen Group,Audi,58175
+2025,6,June,Volkswagen Group,Cupra,26569
+2025,6,June,Volkswagen Group,Others,894
+2025,6,June,Volkswagen Group,Porsche,8451
+2025,6,June,Volkswagen Group,Seat,19901
+2025,6,June,Volkswagen Group,Skoda,77797
+2025,6,June,Volkswagen Group,Volkswagen,132092
+2025,7,July,Stellantis,Alfa Romeo,4068
+2025,7,July,Stellantis,Citroen,24911
+2025,7,July,Stellantis,DS,2218
+2025,7,July,Stellantis,Fiat,21738
+2025,7,July,Stellantis,Jeep,9428
+2025,7,July,Stellantis,Lancia/Chrysler,905
+2025,7,July,Stellantis,Opel/Vauxhall,30990
+2025,7,July,Stellantis,Others,491
+2025,7,July,Stellantis,Peugeot,41243
+2025,7,July,Toyota Group,Alpine,540
+2025,7,July,Toyota Group,Dacia,51096
+2025,7,July,Toyota Group,Lexus,69798
+2025,7,July,Toyota Group,Renault,45307
+2025,7,July,Toyota Group,Toyota,75602
+2025,7,July,Volkswagen Group,Audi,42617
+2025,7,July,Volkswagen Group,Cupra,20097
+2025,7,July,Volkswagen Group,Others,758
+2025,7,July,Volkswagen Group,Porsche,5964
+2025,7,July,Volkswagen Group,Seat,16833
+2025,7,July,Volkswagen Group,Skoda,68076
+2025,7,July,Volkswagen Group,Volkswagen,107723
+2025,8,August,Renault Group,Alpine,552
+2025,8,August,Renault Group,Dacia,36936
+2025,8,August,Renault Group,Renault,37840
+2025,8,August,Stellantis,Alfa Romeo,2977
+2025,8,August,Stellantis,Citroen,20871
+2025,8,August,Stellantis,DS,1424
+2025,8,August,Stellantis,Fiat,14689
+2025,8,August,Stellantis,Jeep,7051
+2025,8,August,Stellantis,Lancia/Chrysler,507
+2025,8,August,Stellantis,Opel/Vauxhall,24644
+2025,8,August,Stellantis,Others,298
+2025,8,August,Stellantis,Peugeot,33617
+2025,8,August,Toyota Group,Lexus,4142
+2025,8,August,Toyota Group,Toyota,55535
+2025,8,August,Volkswagen Group,Audi,41335
+2025,8,August,Volkswagen Group,Cupra,19354
+2025,8,August,Volkswagen Group,Others,597
+2025,8,August,Volkswagen Group,Porsche,4718
+2025,8,August,Volkswagen Group,Seat,13478
+2025,8,August,Volkswagen Group,Skoda,52246
+2025,8,August,Volkswagen Group,Volkswagen,87322
+2025,9,September,Stellantis,Alfa Romeo,4860
+2025,9,September,Stellantis,Citroen,25685
+2025,9,September,Stellantis,DS,2230
+2025,9,September,Stellantis,Fiat,21444
+2025,9,September,Stellantis,Jeep,9415
+2025,9,September,Stellantis,Lancia/Chrysler,833
+2025,9,September,Stellantis,Opel/Vauxhall,26357
+2025,9,September,Stellantis,Others,236
+2025,9,September,Stellantis,Peugeot,42245
+2025,9,September,Toyota Group,Alpine,572
+2025,9,September,Toyota Group,Dacia,45762
+2025,9,September,Toyota Group,Lexus,61545
+2025,9,September,Toyota Group,Renault,54483
+2025,9,September,Toyota Group,Toyota,66492
+2025,9,September,Volkswagen Group,Audi,41525
+2025,9,September,Volkswagen Group,Cupra,18796
+2025,9,September,Volkswagen Group,Others,519
+2025,9,September,Volkswagen Group,Porsche,5051
+2025,9,September,Volkswagen Group,Seat,14548
+2025,9,September,Volkswagen Group,Skoda,63047
+2025,9,September,Volkswagen Group,Volkswagen,97882
+2025,10,October,Stellantis,Alfa Romeo,4597
+2025,10,October,Stellantis,Citroen,27357
+2025,10,October,Stellantis,DS,2103
+2025,10,October,Stellantis,Fiat,21291
+2025,10,October,Stellantis,Jeep,8723
+2025,10,October,Stellantis,Lancia/Chrysler,1106
+2025,10,October,Stellantis,Opel/Vauxhall,28702
+2025,10,October,Stellantis,Others,287
+2025,10,October,Stellantis,Peugeot,45543
+2025,10,October,Toyota Group,Alpine,670
+2025,10,October,Toyota Group,Dacia,46244
+2025,10,October,Toyota Group,Lexus,60886
+2025,10,October,Toyota Group,Renault,56494
+2025,10,October,Toyota Group,Toyota,65616
+2025,10,October,Volkswagen Group,Audi,46485
+2025,10,October,Volkswagen Group,Cupra,20751
+2025,10,October,Volkswagen Group,Others,466
+2025,10,October,Volkswagen Group,Porsche,5474
+2025,10,October,Volkswagen Group,Seat,15698
+2025,10,October,Volkswagen Group,Skoda,69786
+2025,10,October,Volkswagen Group,Volkswagen,105408
+2025,11,November,Renault Group,Alpine,681
+2025,11,November,Renault Group,Dacia,44644
+2025,11,November,Renault Group,Renault,58382
+2025,11,November,Stellantis,Alfa Romeo,3720
+2025,11,November,Stellantis,Citroen,25915
+2025,11,November,Stellantis,DS,1750
+2025,11,November,Stellantis,Fiat,19496
+2025,11,November,Stellantis,Jeep,7948
+2025,11,November,Stellantis,Lancia/Chrysler,1085
+2025,11,November,Stellantis,Opel/Vauxhall,24491
+2025,11,November,Stellantis,Others,230
+2025,11,November,Stellantis,Peugeot,40081
+2025,11,November,Toyota Group,Lexus,4315
+2025,11,November,Toyota Group,Toyota,60473
+2025,11,November,Volkswagen Group,Audi,47276
+2025,11,November,Volkswagen Group,Cupra,20740
+2025,11,November,Volkswagen Group,Others,447
+2025,11,November,Volkswagen Group,Porsche,4674
+2025,11,November,Volkswagen Group,Seat,15379
+2025,11,November,Volkswagen Group,Skoda,61909
+2025,11,November,Volkswagen Group,Volkswagen,101815
+2025,12,December,Renault Group,Alpine,1109
+2025,12,December,Renault Group,Dacia,46862
+2025,12,December,Renault Group,Renault,70040
+2025,12,December,Stellantis,Alfa Romeo,3900
+2025,12,December,Stellantis,Citroen,25251
+2025,12,December,Stellantis,DS,2020
+2025,12,December,Stellantis,Fiat,18293
+2025,12,December,Stellantis,Jeep,7026
+2025,12,December,Stellantis,Lancia/Chrysler,820
+2025,12,December,Stellantis,Opel/Vauxhall,24728
+2025,12,December,Stellantis,Others,221
+2025,12,December,Stellantis,Peugeot,36889
+2025,12,December,Toyota Group,Lexus,4720
+2025,12,December,Toyota Group,Toyota,65170
+2025,12,December,Volkswagen Group,Audi,52305
+2025,12,December,Volkswagen Group,Cupra,20724
+2025,12,December,Volkswagen Group,Others,531
+2025,12,December,Volkswagen Group,Porsche,4502
+2025,12,December,Volkswagen Group,Seat,15939
+2025,12,December,Volkswagen Group,Skoda,60021
+2025,12,December,Volkswagen Group,Volkswagen,103310
+2026,1,January,Renault Group,Alpine,778
+2026,1,January,Renault Group,Dacia,31819
+2026,1,January,Renault Group,Renault,50604
+2026,1,January,Stellantis,Alfa Romeo,4278
+2026,1,January,Stellantis,Citroen,31039
+2026,1,January,Stellantis,DS,1823
+2026,1,January,Stellantis,Fiat,29415
+2026,1,January,Stellantis,Jeep,10484
+2026,1,January,Stellantis,Lancia/Chrysler,1283
+2026,1,January,Stellantis,Opel/Vauxhall,32054
+2026,1,January,Stellantis,Others,261
+2026,1,January,Stellantis,Peugeot,53799
+2026,1,January,Toyota Group,BYD,18242
+2026,1,January,Toyota Group,Ford,31385
+2026,1,January,Toyota Group,Lexus,5338
+2026,1,January,Toyota Group,Mazda,11022
+2026,1,January,Toyota Group,Mercedes-Benz,43704
+2026,1,January,Toyota Group,Nissan,20570
+2026,1,January,Toyota Group,SAIC Motor,19254
+2026,1,January,Toyota Group,Suzuki,12793
+2026,1,January,Toyota Group,Toyota,63801
+2026,1,January,Toyota Group,Volvo Cars,20367
+2026,1,January,Volkswagen Group,Audi,48984
+2026,1,January,Volkswagen Group,Cupra,18782
+2026,1,January,Volkswagen Group,Others,670
+2026,1,January,Volkswagen Group,Porsche,7514
+2026,1,January,Volkswagen Group,Seat,15583
+2026,1,January,Volkswagen Group,Skoda,64967
+2026,1,January,Volkswagen Group,Volkswagen,100228
+2026,2,February,Stellantis,Alfa Romeo,4128
+2026,2,February,Stellantis,Citroen,34034
+2026,2,February,Stellantis,DS,2084
+2026,2,February,Stellantis,Fiat,34319
+2026,2,February,Stellantis,Jeep,11515
+2026,2,February,Stellantis,Lancia/Chrysler,1275
+2026,2,February,Stellantis,Opel/Vauxhall,32855
+2026,2,February,Stellantis,Others,245
+2026,2,February,Stellantis,Peugeot,50361
+2026,2,February,Toyota Group,Alpine,781
+2026,2,February,Toyota Group,Dacia,36445
+2026,2,February,Toyota Group,Hyundai,37058
+2026,2,February,Toyota Group,Kia,70661
+2026,2,February,Toyota Group,Lexus,67631
+2026,2,February,Toyota Group,Renault,54393
+2026,2,February,Toyota Group,Toyota,33603
+2026,2,February,Volkswagen Group,Audi,47539
+2026,2,February,Volkswagen Group,Cupra,18732
+2026,2,February,Volkswagen Group,Others,691
+2026,2,February,Volkswagen Group,Porsche,5756
+2026,2,February,Volkswagen Group,Seat,17486
+2026,2,February,Volkswagen Group,Skoda,65847
+2026,2,February,Volkswagen Group,Volkswagen,100401
+2026,3,March,Renault Group,Alpine,1528
+2026,3,March,Renault Group,Dacia,57904
+2026,3,March,Renault Group,Renault,84565
+2026,3,March,Stellantis,Alfa Romeo,6000
+2026,3,March,Stellantis,Citroen,43665
+2026,3,March,Stellantis,DS,2864
+2026,3,March,Stellantis,Fiat,37962
+2026,3,March,Stellantis,Jeep,15456
+2026,3,March,Stellantis,Lancia/Chrysler,1513
+2026,3,March,Stellantis,Opel/Vauxhall,50285
+2026,3,March,Stellantis,Others,350
+2026,3,March,Stellantis,Peugeot,69960
+2026,3,March,Toyota Group,BYD,37580
+2026,3,March,Toyota Group,Ford,45031
+2026,3,March,Toyota Group,Lexus,7978
+2026,3,March,Toyota Group,Mazda,26295
+2026,3,March,Toyota Group,Mercedes-Benz,74679
+2026,3,March,Toyota Group,Nissan,47796
+2026,3,March,Toyota Group,SAIC Motor,39948
+2026,3,March,Toyota Group,Suzuki,21352
+2026,3,March,Toyota Group,Tesla,52600
+2026,3,March,Toyota Group,Toyota,90843
+2026,3,March,Toyota Group,Volvo Cars,36883
+2026,3,March,Volkswagen Group,Audi,75066
+2026,3,March,Volkswagen Group,Cupra,32428
+2026,3,March,Volkswagen Group,Others,1183
+2026,3,March,Volkswagen Group,Porsche,8852
+2026,3,March,Volkswagen Group,Seat,22243
+2026,3,March,Volkswagen Group,Skoda,92145
+2026,3,March,Volkswagen Group,Volkswagen,146910
+2026,4,April,Renault Group,Alpine,1199
+2026,4,April,Renault Group,Dacia,44535
+2026,4,April,Renault Group,Renault,60750
+2026,4,April,Stellantis,Alfa Romeo,3978
+2026,4,April,Stellantis,Citroen,33581
+2026,4,April,Stellantis,DS,2045
+2026,4,April,Stellantis,Fiat,29938
+2026,4,April,Stellantis,Jeep,11510
+2026,4,April,Stellantis,Lancia/Chrysler,1191
+2026,4,April,Stellantis,Opel/Vauxhall,37032
+2026,4,April,Stellantis,Others,284
+2026,4,April,Stellantis,Peugeot,57300
+2026,4,April,Toyota Group,BYD,27008
+2026,4,April,Toyota Group,Chery Automobile,24398
+2026,4,April,Toyota Group,Ford,31587
+2026,4,April,Toyota Group,Geely Group,36405
+2026,4,April,Toyota Group,Lexus,5635
+2026,4,April,Toyota Group,Mazda,12490
+2026,4,April,Toyota Group,Mercedes-Benz,56544
+2026,4,April,Toyota Group,Nissan,17692
+2026,4,April,Toyota Group,SAIC Motor,29308
+2026,4,April,Toyota Group,Suzuki,13256
+2026,4,April,Toyota Group,Tesla,10654
+2026,4,April,Toyota Group,Toyota,69789
+2026,4,April,Volkswagen Group,Audi,58793
+2026,4,April,Volkswagen Group,Cupra,26212
+2026,4,April,Volkswagen Group,Others,933
+2026,4,April,Volkswagen Group,Porsche,6914
+2026,4,April,Volkswagen Group,Seat,17297
+2026,4,April,Volkswagen Group,Skoda,77032
+2026,4,April,Volkswagen Group,Volkswagen,121151
+2026,5,May,Renault Group,Alpine,1221
+2026,5,May,Renault Group,Dacia,47690
+2026,5,May,Renault Group,Renault,61213
+2026,5,May,Stellantis,Alfa Romeo,3759
+2026,5,May,Stellantis,Citroen,31665
+2026,5,May,Stellantis,DS,1883
+2026,5,May,Stellantis,Fiat,29740
+2026,5,May,Stellantis,Jeep,10324
+2026,5,May,Stellantis,Lancia/Chrysler,754
+2026,5,May,Stellantis,Opel/Vauxhall,36291
+2026,5,May,Stellantis,Others,265
+2026,5,May,Stellantis,Peugeot,50277
+2026,5,May,Toyota Group,BYD,32380
+2026,5,May,Toyota Group,Chery Automobile,27412
+2026,5,May,Toyota Group,Ford,25290
+2026,5,May,Toyota Group,Geely Group,38146
+2026,5,May,Toyota Group,Lexus,5988
+2026,5,May,Toyota Group,Mazda,12597
+2026,5,May,Toyota Group,Mercedes-Benz,56185
+2026,5,May,Toyota Group,Nissan,17730
+2026,5,May,Toyota Group,SAIC Motor,30527
+2026,5,May,Toyota Group,Suzuki,13965
+2026,5,May,Toyota Group,Tesla,28610
+2026,5,May,Toyota Group,Toyota,72180
+2026,5,May,Volkswagen Group,Audi,58030
+2026,5,May,Volkswagen Group,Cupra,24607
+2026,5,May,Volkswagen Group,Others,669
+2026,5,May,Volkswagen Group,Porsche,6743
+2026,5,May,Volkswagen Group,Seat,17342
+2026,5,May,Volkswagen Group,Skoda,71591
+2026,5,May,Volkswagen Group,Volkswagen,121318
+2026,6,June,Renault Group,Alpine,2708
+2026,6,June,Renault Group,Dacia,63424
+2026,6,June,Renault Group,Renault,81688
+2026,6,June,Stellantis,Alfa Romeo,4233
+2026,6,June,Stellantis,Citroen,36229
+2026,6,June,Stellantis,DS,3103
+2026,6,June,Stellantis,Fiat,31962
+2026,6,June,Stellantis,Jeep,10605
+2026,6,June,Stellantis,Lancia/Chrysler,810
+2026,6,June,Stellantis,Opel/Vauxhall,40058
+2026,6,June,Stellantis,Others,406
+2026,6,June,Stellantis,Peugeot,63606
+2026,6,June,Toyota Group,BYD,38455
+2026,6,June,Toyota Group,Chery Automobile,32455
+2026,6,June,Toyota Group,Ford,35440
+2026,6,June,Toyota Group,Geely Group,49244
+2026,6,June,Toyota Group,Lexus,6834
+2026,6,June,Toyota Group,Mazda,17010
+2026,6,June,Toyota Group,Mercedes-Benz,67104
+2026,6,June,Toyota Group,Nissan,24605
+2026,6,June,Toyota Group,SAIC Motor,38647
+2026,6,June,Toyota Group,Suzuki,17509
+2026,6,June,Toyota Group,Tesla,52563
+2026,6,June,Toyota Group,Toyota,81930
+2026,6,June,Volkswagen Group,Audi,64544
+2026,6,June,Volkswagen Group,Cupra,30669
+2026,6,June,Volkswagen Group,Others,862
+2026,6,June,Volkswagen Group,Porsche,8136
+2026,6,June,Volkswagen Group,Seat,22343
+2026,6,June,Volkswagen Group,Skoda,85952
+2026,6,June,Volkswagen Group,Volkswagen,133431
