@@ -1,0 +1,34 @@
+fichier;variable;type;description;valeurs;exemple;source;notes
+data_finale.csv;year;Entier;Année d'immatriculation;2015 à 2026;2024;ACEA;
+data_finale.csv;month_num;Entier;Numéro du mois;1 (janvier) à 12 (décembre);3;ACEA;Utile pour le tri chronologique dans Power BI
+data_finale.csv;month;Texte;Nom du mois en anglais;January à December;March;ACEA;
+data_finale.csv;group;Texte;Groupe constructeur normalisé;Renault Group | Stellantis | Volkswagen Group | Toyota Group;Renault Group;ACEA;Stellantis = fusion PSA + FCA à partir de janvier 2021
+data_finale.csv;brand;Texte;Marque commerciale du véhicule;Renault | Dacia | Alpine | Peugeot | Citroen | Fiat | Volkswagen | Toyota | etc.;Dacia;ACEA;Lada présent de 2016 à 2022 (cession Renault suite guerre Ukraine)
+data_finale.csv;registrations;Entier;Nombre de voitures particulières neuves immatriculées;Entier positif;53847;ACEA;Périmètre : EU + EFTA (Norvège, Suisse, Islande) + UK
+eea_co2_detail.csv;year;Entier;Année d'immatriculation;2015 à 2025;2024;EEA via API Discodata;
+eea_co2_detail.csv;group;Texte;Groupe constructeur normalisé;Renault Group | Stellantis | Volkswagen Group | Toyota Group;Volkswagen Group;EEA via API Discodata;
+eea_co2_detail.csv;protocol;Texte;Protocole de mesure des émissions CO₂;NEDC | WLTP;WLTP;EEA via API Discodata;NEDC jusqu'en 2020 / WLTP à partir de 2021. Non comparables directement : le WLTP donne ~20% de plus que le NEDC
+eea_co2_detail.csv;motorisation;Texte;Catégorie de motorisation;VE | PHEV | Thermique | Autre;VE;EEA via API Discodata;VE = 100% électrique (0 g/km) | PHEV = hybride rechargeable | Thermique = essence, diesel, GPL, GNV | Autre = hybrides non rechargeables et non classifiés
+eea_co2_detail.csv;n_vehicles;Entier;Nombre de véhicules immatriculés dans cette catégorie;Entier positif;339609;EEA via API Discodata;
+eea_co2_detail.csv;pct_motorisation;Décimal;Part de cette motorisation dans la flotte totale du groupe (%);0.0 à 100.0;11.98;Calculé;La somme des pct_motorisation pour un même group+year = ~100%
+eea_co2_detail.csv;avg_co2_gkm;Décimal;Émissions CO₂ moyennes en g/km pour cette catégorie de motorisation;0.0 (VE) à ~200 (thermique);142.27;EEA via API Discodata;Moyenne pondérée par nombre de véhicules. VE = 0 g/km par définition
+eea_co2_summary.csv;year;Entier;Année d'immatriculation;2015 à 2025;2024;Agrégé depuis eea_co2_detail.csv;
+eea_co2_summary.csv;group;Texte;Groupe constructeur normalisé;Renault Group | Stellantis | Volkswagen Group | Toyota Group;Renault Group;Agrégé depuis eea_co2_detail.csv;
+eea_co2_summary.csv;protocol;Texte;Protocole de mesure des émissions CO₂;NEDC | WLTP;WLTP;Agrégé depuis eea_co2_detail.csv;Rupture de série en 2021 : passage NEDC → WLTP
+eea_co2_summary.csv;n_vehicles_total;Entier;Nombre total de véhicules du groupe immatriculés cette année;Entier positif;1466546;Agrégé depuis eea_co2_detail.csv;
+eea_co2_summary.csv;avg_co2_fleet_gkm;Décimal;CO₂ moyen de la flotte entière du groupe en g/km (toutes motorisations confondues, pondéré par volume);0.0 à ~200;112.39;Agrégé depuis eea_co2_detail.csv;C'est cette valeur qui est comparée à target_gkm de co2_targets_ue.csv pour évaluer la conformité réglementaire
+eea_co2_summary.csv;pct_ve;Décimal;Part des véhicules 100% électriques dans la flotte du groupe (%);0.0 à 100.0;7.94;Agrégé depuis eea_co2_detail.csv;
+eea_co2_summary.csv;pct_phev;Décimal;Part des hybrides rechargeables dans la flotte du groupe (%);0.0 à 100.0;1.14;Agrégé depuis eea_co2_detail.csv;
+eea_co2_summary.csv;pct_thermique;Décimal;Part des véhicules thermiques (essence, diesel, GPL, GNV) dans la flotte du groupe (%);0.0 à 100.0;90.91;Agrégé depuis eea_co2_detail.csv;
+co2_targets_ue.csv;year;Entier;Année de l'objectif réglementaire;2015 à 2035;2025;EUR-Lex / Commission Européenne;Clé de jointure avec eea_co2_summary.csv sur year
+co2_targets_ue.csv;target_gkm;Décimal;Objectif CO₂ fleet-wide UE en g/km. C'est la moyenne que l'ensemble des voitures neuves vendues en Europe ne doit pas dépasser;0.0 à 130.0;93.6;EUR-Lex / Commission Européenne;Objectif fleet-wide (moyenne UE). Les objectifs individuels par constructeur varient selon la masse moyenne de leur parc. Amende : 95€ par g/km de dépassement × nombre de véhicules
+co2_targets_ue.csv;protocol;Texte;Protocole de mesure applicable pour cette année;NEDC | WLTP;WLTP;EUR-Lex / Commission Européenne;Permet de s'assurer de comparer des valeurs mesurées avec le même protocole
+co2_targets_ue.csv;base_legale;Texte;Règlement européen qui fixe cet objectif;Texte libre;Règlement (UE) 2019/631 (-15% vs 2021);EUR-Lex / Commission Européenne;
+renault_ir_objectifs.csv;plan;Texte;Nom du plan stratégique Renault dans lequel s'inscrit l'objectif;Renaulution | Ampere | futuREady;futuREady;Renault Group Investor Relations;Renaulution : 2021-2025 | Ampere : 2023-2031 | futuREady : 2026-2030
+renault_ir_objectifs.csv;date_annonce;Date;Date à laquelle l'objectif a été annoncé officiellement;Format YYYY-MM-DD;10/03/2026;Renault Group Investor Relations;
+renault_ir_objectifs.csv;categorie;Texte;Catégorie thématique de l'objectif;Électrification | CO2 | Volume | Environnement;Électrification;Renault Group Investor Relations;
+renault_ir_objectifs.csv;objectif;Texte;Description de l'objectif annoncé;Texte libre;Ventes annuelles marque Renault;Renault Group Investor Relations;
+renault_ir_objectifs.csv;valeur_cible;Texte;Valeur quantitative ou qualitative de l'objectif annoncé;Texte libre;2 millions véhicules/an;Renault Group Investor Relations;
+renault_ir_objectifs.csv;horizon;Entier;Année à laquelle l'objectif doit être atteint;2025 à 2050;2030;Renault Group Investor Relations;
+renault_ir_objectifs.csv;resultat;Texte;Résultat connu à date pour cet objectif (si disponible);Texte libre ou vide si non disponible;1.628 million en 2025;Renault Group Investor Relations / Résultats annuels 2025;Vide si l'horizon n'est pas encore atteint ou si le résultat n'est pas encore publié
+renault_ir_objectifs.csv;source;Texte;Document ou page officielle Renault Group dans lequel l'objectif est mentionné;Texte libre;Plan futuREady — renaultgroup.com;Renault Group Investor Relations;
