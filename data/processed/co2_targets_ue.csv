@@ -1,0 +1,22 @@
+year,target_gkm,protocol,base_legale
+2015,130.0,NEDC,Règlement (CE) 443/2009
+2016,130.0,NEDC,Règlement (CE) 443/2009
+2017,130.0,NEDC,Règlement (CE) 443/2009
+2018,130.0,NEDC,Règlement (CE) 443/2009
+2019,130.0,NEDC,Règlement (CE) 443/2009
+2020,95.0,NEDC,Règlement (UE) 2019/631
+2021,115.1,WLTP,Décision Commission 2021 / Règlement (UE) 2019/631
+2022,115.1,WLTP,Décision Commission 2021 / Règlement (UE) 2019/631
+2023,115.1,WLTP,Décision Commission 2021 / Règlement (UE) 2019/631
+2024,115.1,WLTP,Décision Commission 2021 / Règlement (UE) 2019/631
+2025,93.6,WLTP,Règlement (UE) 2019/631 (-15% vs 2021)
+2026,93.6,WLTP,Règlement (UE) 2019/631 (-15% vs 2021)
+2027,93.6,WLTP,Règlement (UE) 2019/631 (-15% vs 2021)
+2028,93.6,WLTP,Règlement (UE) 2019/631 (-15% vs 2021)
+2029,93.6,WLTP,Règlement (UE) 2019/631 (-15% vs 2021)
+2030,49.5,WLTP,Règlement (UE) 2023/851 (-55% vs 2021)
+2031,49.5,WLTP,Règlement (UE) 2023/851 (-55% vs 2021)
+2032,49.5,WLTP,Règlement (UE) 2023/851 (-55% vs 2021)
+2033,49.5,WLTP,Règlement (UE) 2023/851 (-55% vs 2021)
+2034,49.5,WLTP,Règlement (UE) 2023/851 (-55% vs 2021)
+2035,0.0,WLTP,Règlement (UE) 2023/851 (100% réduction)

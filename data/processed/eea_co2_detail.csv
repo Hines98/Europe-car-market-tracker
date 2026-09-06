@@ -1,0 +1,138 @@
+year,group,protocol,motorisation,n_vehicles,pct_motorisation,avg_co2_gkm
+2015,Renault Group,NEDC,Thermique,29078,99.26,119.42
+2015,Renault Group,NEDC,VE,218,0.74,0.0
+2015,Stellantis,NEDC,Autre,42,0.26,238.45
+2015,Stellantis,NEDC,Thermique,16262,99.74,134.54
+2015,Stellantis,NEDC,VE,1,0.01,0.0
+2015,Toyota Group,NEDC,Autre,272,2.06,87.36
+2015,Toyota Group,NEDC,Thermique,12911,97.93,124.24
+2015,Toyota Group,NEDC,VE,1,0.01,0.0
+2015,Volkswagen Group,NEDC,Autre,887,0.59,60.16
+2015,Volkswagen Group,NEDC,PHEV,10,0.01,97.1
+2015,Volkswagen Group,NEDC,Thermique,150396,99.25,132.03
+2015,Volkswagen Group,NEDC,VE,247,0.16,0.0
+2016,Renault Group,NEDC,Thermique,30902,99.34,114.93
+2016,Renault Group,NEDC,VE,204,0.66,0.0
+2016,Stellantis,NEDC,Autre,16,0.08,268.75
+2016,Stellantis,NEDC,Thermique,18882,99.92,129.44
+2016,Volkswagen Group,NEDC,Autre,1109,0.61,52.74
+2016,Volkswagen Group,NEDC,Thermique,181069,99.23,128.42
+2016,Volkswagen Group,NEDC,VE,298,0.16,0.0
+2017,Renault Group,NEDC,Autre,16,0.0,0.0
+2017,Renault Group,NEDC,PHEV,2,0.0,0.0
+2017,Renault Group,NEDC,Thermique,892879,97.94,0.0
+2017,Renault Group,NEDC,VE,18790,2.06,0.0
+2017,Stellantis,NEDC,Autre,40,0.02,0.0
+2017,Stellantis,NEDC,Thermique,184711,99.98,0.0
+2017,Volkswagen Group,NEDC,Autre,797,0.08,0.0
+2017,Volkswagen Group,NEDC,PHEV,7201,0.75,0.0
+2017,Volkswagen Group,NEDC,Thermique,952525,98.89,0.0
+2017,Volkswagen Group,NEDC,VE,2673,0.28,0.0
+2018,Renault Group,NEDC,Thermique,1598247,97.8,0.0
+2018,Renault Group,NEDC,VE,35935,2.2,0.0
+2018,Stellantis,NEDC,Autre,3785,0.11,0.0
+2018,Stellantis,NEDC,PHEV,6,0.0,0.0
+2018,Stellantis,NEDC,Thermique,3461470,99.75,0.0
+2018,Stellantis,NEDC,VE,4761,0.14,0.0
+2018,Toyota Group,NEDC,Autre,292,0.03,0.0
+2018,Toyota Group,NEDC,Thermique,959173,99.97,0.0
+2018,Volkswagen Group,NEDC,Autre,2188,0.06,0.0
+2018,Volkswagen Group,NEDC,PHEV,30156,0.85,0.0
+2018,Volkswagen Group,NEDC,Thermique,3500937,98.63,0.0
+2018,Volkswagen Group,NEDC,VE,16111,0.45,0.0
+2019,Renault Group,NEDC,Autre,6,0.0,0.0
+2019,Renault Group,NEDC,PHEV,7,0.0,0.0
+2019,Renault Group,NEDC,Thermique,1608011,97.27,0.0
+2019,Renault Group,NEDC,VE,45081,2.73,0.0
+2019,Stellantis,NEDC,PHEV,574,0.02,0.0
+2019,Stellantis,NEDC,Thermique,3381925,96.86,0.0
+2019,Stellantis,NEDC,VE,109103,3.12,0.0
+2019,Toyota Group,NEDC,PHEV,2506,0.24,0.0
+2019,Toyota Group,NEDC,Thermique,1032937,99.76,0.0
+2019,Volkswagen Group,NEDC,Autre,168,0.0,0.0
+2019,Volkswagen Group,NEDC,PHEV,19145,0.51,0.0
+2019,Volkswagen Group,NEDC,Thermique,3656331,98.23,0.0
+2019,Volkswagen Group,NEDC,VE,46526,1.25,0.0
+2020,Renault Group,NEDC,PHEV,44132,2.71,0.0
+2020,Renault Group,NEDC,Thermique,1448013,88.81,0.0
+2020,Renault Group,NEDC,VE,138289,8.48,0.0
+2020,Stellantis,NEDC,Autre,1,0.0,0.0
+2020,Stellantis,NEDC,PHEV,55170,2.16,0.0
+2020,Stellantis,NEDC,Thermique,2328499,91.06,0.0
+2020,Stellantis,NEDC,VE,173335,6.78,0.0
+2020,Toyota Group,NEDC,PHEV,6267,0.76,0.0
+2020,Toyota Group,NEDC,Thermique,813307,98.08,0.0
+2020,Toyota Group,NEDC,VE,9680,1.17,0.0
+2020,Volkswagen Group,NEDC,Autre,2479,0.08,0.0
+2020,Volkswagen Group,NEDC,PHEV,125510,4.25,0.0
+2020,Volkswagen Group,NEDC,Thermique,2630564,89.04,0.0
+2020,Volkswagen Group,NEDC,VE,195839,6.63,0.0
+2021,Renault Group,WLTP,PHEV,55336,4.25,37.22
+2021,Renault Group,WLTP,Thermique,1101155,84.52,128.48
+2021,Renault Group,WLTP,VE,146288,11.23,0.0
+2021,Stellantis,WLTP,PHEV,117172,5.48,37.12
+2021,Stellantis,WLTP,Thermique,1871314,87.46,129.03
+2021,Stellantis,WLTP,VE,151099,7.06,0.0
+2021,Toyota Group,WLTP,PHEV,23627,2.56,22.22
+2021,Toyota Group,WLTP,Thermique,887444,96.18,123.14
+2021,Toyota Group,WLTP,VE,11595,1.26,0.0
+2021,Volkswagen Group,WLTP,PHEV,223187,8.96,35.76
+2021,Volkswagen Group,WLTP,Thermique,1998877,80.25,143.91
+2021,Volkswagen Group,WLTP,VE,268896,10.79,0.0
+2022,Renault Group,WLTP,Autre,20,0.0,105.7
+2022,Renault Group,WLTP,PHEV,42341,3.44,40.8
+2022,Renault Group,WLTP,Thermique,1027257,83.54,126.91
+2022,Renault Group,WLTP,VE,160059,13.02,0.0
+2022,Stellantis,WLTP,PHEV,137807,7.49,37.26
+2022,Stellantis,WLTP,Thermique,1501961,81.65,125.77
+2022,Stellantis,WLTP,VE,199703,10.86,0.0
+2022,Toyota Group,WLTP,Autre,6,0.0,179.17
+2022,Toyota Group,WLTP,PHEV,29497,4.08,27.93
+2022,Toyota Group,WLTP,Thermique,684356,94.77,122.55
+2022,Toyota Group,WLTP,VE,8279,1.15,0.0
+2022,Volkswagen Group,WLTP,Autre,3,0.0,121.0
+2022,Volkswagen Group,WLTP,PHEV,164125,7.0,35.94
+2022,Volkswagen Group,WLTP,Thermique,1892305,80.76,145.63
+2022,Volkswagen Group,WLTP,VE,286648,12.23,0.0
+2023,Renault Group,WLTP,PHEV,22084,1.54,58.12
+2023,Renault Group,WLTP,Thermique,1261275,87.85,124.82
+2023,Renault Group,WLTP,VE,152309,10.61,0.0
+2023,Stellantis,WLTP,Autre,1,0.0,0.0
+2023,Stellantis,WLTP,PHEV,128833,6.88,32.63
+2023,Stellantis,WLTP,Thermique,1519128,81.07,126.36
+2023,Stellantis,WLTP,VE,225833,12.05,0.0
+2023,Toyota Group,WLTP,Autre,33,0.0,246.36
+2023,Toyota Group,WLTP,PHEV,59911,5.56,52.75
+2023,Toyota Group,WLTP,Thermique,989629,91.86,118.75
+2023,Toyota Group,WLTP,VE,27761,2.58,0.0
+2023,Volkswagen Group,WLTP,PHEV,160091,5.83,38.47
+2023,Volkswagen Group,WLTP,Thermique,2234014,81.31,144.65
+2023,Volkswagen Group,WLTP,VE,353487,12.87,0.0
+2024,Renault Group,WLTP,PHEV,16749,1.14,54.78
+2024,Renault Group,WLTP,Thermique,1333289,90.91,122.94
+2024,Renault Group,WLTP,VE,116508,7.94,0.0
+2024,Stellantis,WLTP,PHEV,65111,3.75,36.69
+2024,Stellantis,WLTP,Thermique,1492438,86.02,124.83
+2024,Stellantis,WLTP,VE,177521,10.23,0.0
+2024,Toyota Group,WLTP,Autre,396,0.04,276.69
+2024,Toyota Group,WLTP,PHEV,46666,4.52,29.66
+2024,Toyota Group,WLTP,Thermique,962836,93.19,115.79
+2024,Toyota Group,WLTP,VE,23301,2.26,0.0
+2024,Volkswagen Group,WLTP,PHEV,176450,6.23,28.39
+2024,Volkswagen Group,WLTP,Thermique,2317627,81.79,142.27
+2024,Volkswagen Group,WLTP,VE,339609,11.98,0.0
+2025,Renault Group,WLTP,Autre,1,0.0,127.0
+2025,Renault Group,WLTP,PHEV,29133,2.44,84.7
+2025,Renault Group,WLTP,Thermique,1091233,91.26,116.37
+2025,Renault Group,WLTP,VE,75397,6.31,0.0
+2025,Stellantis,WLTP,PHEV,38665,2.46,40.11
+2025,Stellantis,WLTP,Thermique,1311861,83.59,119.42
+2025,Stellantis,WLTP,VE,218838,13.94,0.0
+2025,Toyota Group,WLTP,Autre,142,0.02,276.99
+2025,Toyota Group,WLTP,PHEV,78772,9.96,38.99
+2025,Toyota Group,WLTP,Thermique,681574,86.14,107.43
+2025,Toyota Group,WLTP,VE,30717,3.88,0.0
+2025,Volkswagen Group,WLTP,Autre,1,0.0,112.0
+2025,Volkswagen Group,WLTP,PHEV,315245,10.66,21.08
+2025,Volkswagen Group,WLTP,Thermique,2063635,69.75,140.57
+2025,Volkswagen Group,WLTP,VE,579704,19.59,0.0
